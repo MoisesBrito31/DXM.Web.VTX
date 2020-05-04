@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "ofline";
+}
+
+<div class="card-title mt-5 mb-5">
+    <h2>Falha de Comunicação</h2>
+</div>
+<hr>
+<div class="card m-auto" style="max-width:500px">
+    <img class="m-auto" src="~/images/dxmfalha.png" height="300" width="160"/>
+    <div class="card-body text-center" >
+        <p>Dxm com endereço <strong>@ViewBag.ip</strong> não foi localizado na rede</p>
+        <button class="m-2 btn btn-block btn-primary" type="button" onclick="document.location.href='/oee/index'">Atualizar</button>
+    </div>
+</div>
+
+

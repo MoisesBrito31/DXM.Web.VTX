@@ -1,0 +1,221 @@
+﻿
+@{
+    ViewData["Title"] = "reset";
+}
+
+<div class="card-title mt-5 mb-5">
+    <div class="row mb-5">
+        <div class="col text-left">
+            <h2>Configuração do DXM</h2>
+        </div>
+        <div class="col text-right  btn-group">
+            <button type="button" class="btn btn-primary" onclick="document.location.href='/config/index'">Rede</button>
+            <button type="button" class="btn btn-primary " onclick="document.location.href='/config/turno'">Turno</button>
+            <button type="button" class="btn btn-primary " onclick="document.location.href='/config/mapIo'">Mapa I/O</button>
+            <button type="button" class="btn btn-primary" onclick="document.location.href='/config/DxmConfig'">Programar</button>
+            <button type="button" class="btn btn-primary  disabled" onclick="document.location.href='/config/reset'">Destravar</button>
+        </div>
+    </div>
+    <hr>
+
+</div>
+
+
+<div class="container-fluid">
+    <div class="m-auto" style="max-width:600px">
+        <h2 class="text-center">Liberção do DXM para Uso</h2>
+        <p>
+            O processo que se segue ira desbloquear o uso de arquivos do DXM <br />
+            Todos os aquivos de Log serão apagados, recomenda-se o download do mesmo antes de continuar<br />
+            Atenção! Durante o processo não desligue ou desconecte o DXM da rede
+        </p>
+    </div>
+    <div class="m-auto pt-4 pb-4" style="max-width:200px">
+        <h3 class="text-center">
+            <span id="estado" class="text-success"></span>
+        </h3>
+    </div>
+    <div class="m-auto pt-4 pb-4" style="max-width:200px">
+        <button id="butInicia" class="btn btn-block btn-success " type="button" onclick="iniciar()">
+            <span id="splint" class="spinner-border spinner-border-sm" style="visibility:collapse"></span>
+            <span id="butInfo">Iniciar</span>
+        </button>
+
+    </div>
+    <div id="barra" class="progress m-auto" style="height:40px; max-width:600px">
+        <div id="progress" class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width:0%;"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+      var barra = document.getElementById("progress");
+    var butInicia = document.getElementById("butInicia");
+    var infoInicia = document.getElementById("butInfo");
+    var roda = document.getElementById("splint");
+    var percent = 0;
+
+
+    function inicio() {         
+         var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+                //alert(re);
+                if (re == "travado") {
+                    document.getElementById("estado").innerHTML = "Travado";
+                    document.getElementById("estado").setAttribute("class", "text-danger");
+                    infoInicia.innerHTML = "Destravar";
+                   
+                }
+                else {
+                    document.getElementById("estado").innerHTML = "Desbloqueado";
+                    document.getElementById("estado").setAttribute("class", "text-success");
+                    document.getElementById("butInicia").setAttribute("class", "invisible")
+                    document.getElementById("barra").setAttribute("style", "visibility:hide");
+                    document.getElementById("progress").setAttribute("style", "visibility:hide");
+                }
+            }
+        }
+        xhp.open("Get", "/Config/getEstado");
+        xhp.send();
+    }
+   
+    inicio();
+
+  
+
+    function iniciar() {
+        percent = 0;
+        infoInicia.innerHTML = "Em processo";
+        roda.setAttribute("style", "visibility:visible");
+        barUpdate();
+        travado();
+    }
+    function barUpdate() {
+        percent += 10;
+        barra.setAttribute("style", `width:${percent}%`);
+    }
+    function fim() {
+        toastr.success("DXM Desbloqueado", "Sucesso");      
+       
+        barra.setAttribute("style", `width:100%`);
+        setTimeout(function () {
+            document.location.href = "/Config/reset";
+        }, 3000);
+    }
+    function falha() {
+        infoInicia.innerHTML = "Reiniciar";
+        roda.setAttribute("style", "visibility:collapse");
+        barra.setAttribute("style", `width:0%`);
+    }
+    function travado() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+                //alert(re);
+                if (re == "travado") {
+                    barUpdate();
+                    destravar();
+                }
+                else {
+                    fim();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/getEstado");
+        xhp.send();
+    }
+    function exist() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText               
+                if (re == "ok") {
+                    barUpdate();
+                    deleteFile();
+                }
+                else {
+                    fim();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/exist?file=OEE.sb");
+        xhp.send();
+    }
+    function deleteFile() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText               
+                if (re == "ok") {
+                    barUpdate();
+                    deletelog1();
+                }
+                else {
+                    barUpdate();
+                    deletelog1();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/fileDelete?file=OEE.sb");
+        xhp.send();
+    }
+    function deletelog1() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText               
+                if (re == "ok") {
+                    barUpdate();
+                    deletelog2();
+                }
+                else {
+                    barUpdate();
+                    deletelog2();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/fileDelete?file=SbFile1.dat");
+        xhp.send();
+    }
+    function deletelog2() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText               
+                if (re == "ok") {
+                    barUpdate();
+                    fim();
+                }
+                else {
+                    fim();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/fileDelete?file=LogFile1.txt");
+        xhp.send();
+    }
+    function destravar() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+               
+                if (re == "ok") {
+                    barUpdate();
+                    exist()
+                }
+                else {
+                    toastr.error("erro", "Falha ao destravar DXM")
+                    falha();
+                }
+            }
+        }
+        xhp.open("Get", "/Config/destravar");
+        xhp.send();
+    }
+    
+ 
+
+</script>

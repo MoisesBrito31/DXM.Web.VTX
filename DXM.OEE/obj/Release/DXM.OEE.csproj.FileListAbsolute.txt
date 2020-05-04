@@ -1,0 +1,24 @@
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csprojAssemblyReference.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csprojAssemblyReference.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Release\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Release\DXM.OEE.pdb

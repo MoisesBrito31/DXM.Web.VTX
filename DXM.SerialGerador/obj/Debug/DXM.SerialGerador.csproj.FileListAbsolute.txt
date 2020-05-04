@@ -1,0 +1,19 @@
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.exe.config
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.exe
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.csprojAssemblyReference.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.Form1.resources
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.Properties.Resources.resources
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.csproj.GenerateResource.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.exe
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.exe.config
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.exe
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\bin\Debug\DXM.SerialGerador.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.Form1.resources
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.exe
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.SerialGerador\obj\Debug\DXM.SerialGerador.pdb

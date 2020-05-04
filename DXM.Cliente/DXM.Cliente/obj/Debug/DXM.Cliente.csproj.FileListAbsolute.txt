@@ -1,0 +1,7 @@
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\bin\Debug\DXM.Cliente.exe.config
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\bin\Debug\DXM.Cliente.exe
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\bin\Debug\DXM.Cliente.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\obj\Debug\DXM.Cliente.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\obj\Debug\DXM.Cliente.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\obj\Debug\DXM.Cliente.exe
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Cliente\DXM.Cliente\obj\Debug\DXM.Cliente.pdb

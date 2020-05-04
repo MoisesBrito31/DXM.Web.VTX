@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewData["Title"] = "relatorio";
+}
+
+<script src="~/js/moment.js"></script>
+<script src="~/js/Chart.min.js"></script>
+<script src="~/js/Chart.js"></script>
+<script src="~/js/chart.util.js"></script>
+
+<div class="card-title mt-5 mb-5">
+    <div class="row">
+        <div class="col text-left"><h2>Relatório Comparativo de Linhas</h2></div>
+    </div>
+</div>
+
+<hr>
+<div class="container-fluid m-auto">
+    <div class="m-auto mt-5 form-inline form-group">
+        <select class="form-control mr-3" id="_linha">
+            @for (int x = 0; x < ViewBag.linhas.Count; x++)
+            {
+                <option value="@x">@ViewBag.linhas[x]</option>
+            }
+        </select>
+        <label>data inicial:</label>
+        <input type="datetime-local" class="form-control mr-3" name="ini" id="ini" />
+        <label>data final:</label>
+        <input type="datetime-local" class="form-control mr-3" name="fim" id="fim" />
+        <select class="form-control mr-3" id="_index">
+            <option value="0">OEE(%)</option>
+            <option value="1">Disponibilidade(%)</option>
+            <option value="2">Qualidade(%)</option>
+            <option value="3">Performance(%)</option>
+            <option value="4">Rodando(min)</option>
+            <option value="5">Parado(min)</option>
+            <option value="6">Produzido(p)</option>
+            <option value="7">Ruins/Bons(p)</option>
+            <option value="8">Velocidade(p/m)</option>
+        </select>
+        <input type="color" id="color" class="form-control mr-3" style="min-width:50px"/>
+        <button type="button" class="btn btn-success" onclick="getDados()">Inserir</button>
+    </div>
+    <div class="m-auto" style="width:80%; ">
+        <canvas id="canvas"></canvas>
+    </div>
+
+    <hr />
+</div>
+
+<script type="text/javascript">
+    var qnd = 0
+    var label = ""
+    var arrey=[]
+    function getDados() {
+        var linha = document.getElementById("_linha").value;
+        var ini = document.getElementById("ini").value;
+        var fim = document.getElementById("fim").value;
+        var index = document.getElementById("_index").value;
+        var cor = document.getElementById("color").value;
+        var xhp = new XMLHttpRequest()
+
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+                var data = JSON.parse(re)                
+                myLine.data.datasets.push(data)
+                if (qnd < data.data.length) {
+                    qnd = data.data.length
+                    arrey=[]
+                    for (x = 0; x < qnd; x++) {
+                        arrey.push(x)
+                    }
+                   
+                }
+                //alert(arrey)
+                myLine.config.data.labels=arrey
+                myLine.update()
+            }
+        }
+        
+        cor = cor.slice(1, cor.length)        
+        xhp.open("Get", `/relatorio/getDados?_color=${cor}&linha=${linha}&ini=${ini}&fim=${fim}&index=${index}`);
+        xhp.send();
+    }
+
+    var config = {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: []
+        },
+        options: {
+            responsive: true,
+            title: {
+                display: true,
+                text: 'comparativo de Linhas'
+            },
+            tooltips: {
+                mode: 'index',
+                intersect: false,
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: true
+            },
+            scales: {
+                xAxes: [{
+                    display: true,
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'x'
+                    }
+                }],
+                yAxes: [{
+                    display: true,
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Valor'
+                    }
+                }]
+            }
+        }
+    };
+
+    function start () {       
+        var ctx = document.getElementById('canvas').getContext('2d');
+        window.myLine = new Chart(ctx, config);
+    };
+
+    start()
+
+</script>

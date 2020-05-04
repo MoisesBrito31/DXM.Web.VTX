@@ -1,0 +1,217 @@
+﻿@model DXM.OEE.Linha;
+@{
+    ViewData["Title"] = "historico";
+
+    string i_m = Model.filtro_Ini.Month.ToString();
+    string i_d = Model.filtro_Ini.Day.ToString();
+    string i_h = Model.filtro_Ini.Hour.ToString();
+    string i_min = Model.filtro_Ini.Minute.ToString();
+    if (i_m.Length < 2) { i_m = "0" + i_m; }
+    if (i_d.Length < 2) { i_d = "0" + i_d; }
+    if (i_h.Length < 2) { i_h = "0" + i_h; }
+    if (i_min.Length < 2) { i_min = "0" + i_min; }
+    string dataIni = string.Format("{0}-{1}-{2}T{3}:{4}", Model.filtro_Ini.Year, i_m, i_d, i_h, i_min);
+
+    string f_m = Model.filtro_fim.Month.ToString();
+    string f_d = Model.filtro_fim.Day.ToString();
+    string f_h = Model.filtro_fim.Hour.ToString();
+    string f_min = Model.filtro_fim.Minute.ToString();
+    if (f_m.Length < 2) { f_m = "0" + f_m; }
+    if (f_d.Length < 2) { f_d = "0" + f_d; }
+    if (f_h.Length < 2) { f_h = "0" + f_h; }
+    if (f_min.Length < 2) { f_min = "0" + f_min; }
+
+    string dataFim = string.Format("{0}-{1}-{2}T{3}:{4}", Model.filtro_fim.Year, f_m, f_d, f_h, f_min);
+
+}
+
+<script src="~/js/moment.js"></script>
+<script src="~/js/Chart.min.js"></script>
+<script src="~/js/Chart.js"></script>
+<script src="~/js/chart.util.js"></script>
+
+
+<div class="card-title mt-5 mb-5">
+    <div class="row">
+        <div class="col text-left"><h2>@Model.nome - Histórico</h2></div>
+
+        <div class="col text-right">
+            <div class="btn-group">
+                <button type="button" class="btn btn-primary" onclick="window.location.href='/oee/index'">Fábrica</button>
+                <button type="button" class="btn btn-primary" onclick="window.location.href='/oee/linha/@Model.id'">ao vivo</button>
+                <button type="button" class="btn btn-primary disabled">Histórico</button>
+                <!--<button type="button" class="btn btn-danger">Zerar</button>-->
+            </div>
+        </div>
+    </div>
+
+</div>
+<form method="post" action="/oee/historicoFiltro/@Model.id">
+    <div class="m-auto mt-5 form-inline form-group">
+        <label>data inicial:</label>
+        <input type="datetime-local" class="form-control mr-3" name="ini" id="ini" value="@dataIni" />
+        <label>data final:</label>
+        <input type="datetime-local" class="form-control mr-3" name="fim" id="fim" value="@dataFim" />
+        <button type="submit" class="btn btn-primary mr-3">Aplicar</button>
+        <button type="button" class="btn btn-primary" onclick="gerarRelatorio()">Relatório</button>
+    </div>
+</form>
+<hr>
+<div class="container-fluid m-auto">
+
+    @if (ViewBag.registrado)
+    {
+    <div class="m-auto" style="width:80%;">
+        <canvas id="canvas"></canvas>
+    </div>
+    }
+    <hr />
+    <div>
+        <table class="table">
+            <thead class="thead-dark">
+                <tr class="text-center m-auto">
+                    <th>Hora</th>
+                    <th>OEE</th>
+                    <th>Disponibilidade</th>
+                    <th>Qualidade</th>
+                    <th>Performance</th>
+                    <th>Rodando</th>
+                    <th>Parado</th>
+                    <th>Produzido</th>
+                    <th>Ruins/Bons</th>
+                    <th>Velocidade</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int x = 0; x < Model.histFiltro.Count; x++)
+                {
+                <tr class="text-center m-auto">
+                    <th class="text-left">@Model.histFiltro[x].time.ToString()</th>
+                    <th>@string.Format("{0} %", Model.histFiltro[x].oee)</th>
+                    <th>@string.Format("{0} %", Model.histFiltro[x].dis)</th>
+                    <th>@string.Format("{0} %", Model.histFiltro[x].q)</th>
+                    <th>@string.Format("{0} %", Model.histFiltro[x].per)</th>
+                    <th>@string.Format("{0}:{1}", (int)Model.histFiltro[x].t_prod / 60, Model.histFiltro[x].t_prod % 60)</th>
+                    <th>@string.Format("{0}:{1}", (int)Model.histFiltro[x].t_par / 60, Model.histFiltro[x].t_par % 60)</th>
+                    <th>@string.Format("{0}", Model.histFiltro[x].ruins_total)</th>
+                    <th>@string.Format("{0}", Model.histFiltro[x].bons)</th>
+                    <th>@string.Format("{0} p/m", Model.histFiltro[x].vel_atu)</th>
+                </tr>
+                }
+                <tr class="text-center m-auto"><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th><th>--</th></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+		var config = {
+			type: 'line',
+			data: {
+                labels: [@Html.Raw(Model.get_log_time(true))],
+				datasets: [{
+                    label: 'OEE (%)',
+					backgroundColor: window.chartColors.red,
+					borderColor: window.chartColors.red,
+					data: [@Model.get_log_oee(true)],
+					fill: false,
+				}, {
+                    label: 'Disponibilidade (%)',
+					fill: false,
+					backgroundColor: window.chartColors.blue,
+					borderColor: window.chartColors.blue,
+					data: [@Model.get_log_dis(true)],
+                 },{
+                    label: 'Qualidade (%)',
+                     fill: false,
+                     backgroundColor: window.chartColors.yellow,
+                     borderColor: window.chartColors.yellow,
+                        data: [@Model.get_log_q(true)],
+                      },{
+                    label: 'Performance (%)',
+                     fill: false,
+                     backgroundColor: window.chartColors.green,
+                     borderColor: window.chartColors.green,
+                        data: [@Model.get_log_per(true)],
+                      },{
+                    label: 'Rodando(min)',
+                     fill: false,
+                     backgroundColor: "rgb(128,255,128)",
+                     borderColor: "rgb(128,255,128)",
+                        data: [@Model.get_log_rodando(true)],
+                      },{
+                      label: 'Parado(min)',
+                     fill: false,
+                     backgroundColor: window.chartColors.grey,
+                     borderColor: window.chartColors.grey,
+                        data: [@Model.get_log_parado(true)],
+                      },{
+                      label: 'Produzido(p)',
+                     fill: false,
+                     backgroundColor: window.chartColors.purple,
+                     borderColor:window.chartColors.purple,
+                        data: [@Model.get_log_ruins(true)],
+                     },{
+                      label: 'Ruins/Bons(p)',
+                     fill: false,
+                     backgroundColor: window.chartColors.orange,
+                     borderColor: window.chartColors.orange,
+                        data: [@Model.get_log_produzido(true)],
+                     },{
+                      label: 'Velocidade(p/m)',
+                     fill: false,
+                     backgroundColor: "rgb(184,134,11)",
+                     borderColor: "rgb(184,134,11)",
+                     data: [@Model.get_log_vel(true)],
+                 }]
+			},
+			options: {
+				responsive: true,
+				title: {
+					display: true,
+					text: 'Linha do Tempo'
+				},
+				tooltips: {
+					mode: 'index',
+					intersect: false,
+				},
+				hover: {
+					mode: 'nearest',
+					intersect: true
+				},
+				scales: {
+					xAxes: [{
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Data'
+						}
+					}],
+					yAxes: [{
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Valor'
+						}
+					}]
+				}
+			}
+		};
+
+		window.onload = function() {
+			var ctx = document.getElementById('canvas').getContext('2d');
+			window.myLine = new Chart(ctx, config);
+		};
+
+
+
+        var colorNames = Object.keys(window.chartColors);
+    function gerarRelatorio() {
+        var ini = document.getElementById("ini").value
+        var fim = document.getElementById("fim").value
+        var xhp = new XMLHttpRequest()
+        var endres = "/oee/relatorio?id=" + @Model.id + "&ini=" + ini + "&fim=" +fim
+        document.location.href=endres
+    }
+
+</script>

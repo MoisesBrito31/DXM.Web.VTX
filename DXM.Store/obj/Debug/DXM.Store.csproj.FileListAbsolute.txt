@@ -1,0 +1,58 @@
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.Store.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\bin\Debug\DXM.OEE.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csprojAssemblyReference.cache
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.csproj.CopyComplete
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.Store\obj\Debug\DXM.Store.pdb

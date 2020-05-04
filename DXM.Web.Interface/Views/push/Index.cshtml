@@ -1,0 +1,14 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "push"; 
+}
+
+
+<h2>@ViewData["Title"]</h2>
+
+@for(int x = 0; x < Model.Count; x++)
+{
+    <p>@Model[x]</p>
+}
+

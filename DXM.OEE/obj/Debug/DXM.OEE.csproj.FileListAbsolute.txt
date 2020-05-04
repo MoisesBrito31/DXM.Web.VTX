@@ -1,0 +1,38 @@
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\Users\Moises\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\Users\User\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb

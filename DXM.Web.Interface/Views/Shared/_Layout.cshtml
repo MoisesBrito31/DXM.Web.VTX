@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DXM.Web.Interface</title>
+
+    <globalization fileEncoding="utf-8" requestEncoding="utf-8" responseEncoding="utf-8" culture="pt-br" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/toastr/dist/content/toastr.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/js/raphael-2.1.4.min.js"></script>
+    <script src="~/js/justgage.js"></script>
+    <script src="~/lib/toastr/dist/scripts/toastr.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary fixed-top">
+        <img class="mr-3" src="~/images/banner.png" width="120" height="30">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/oee/Index">OEE</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/relatorio/Index">Relatório</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Config/Index">Configurar</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/About">Sobre</a>
+                </li>
+            </ul>
+
+            @if (Convert.ToString(ViewData["Title"]) != "historico" && Convert.ToString(ViewData["Title"]) != "historicoFiltro")
+            {
+                <div id="loging" class="navbar-nav ml-auto" style="visibility:hidden">
+                    <div class="form-inline">
+                        <div class="spinner-border text-light mr-1" style="min-height:20px;min-width:20px;max-height:20px;max-width:20px;"></div>
+                        <strong class="text-light">Sincronizando...</strong>
+                    </div>
+                </div>
+                <div class="navbar-nav ml-auto">
+                    <button onclick="getLog()" type="button" class="btn btn-light p-1 mr-2" style="max-height:40px;max-width:40px;"><img src="~/images/sync.png" width="20" height="20" /></button>
+                    <img id="sts" src="~/images/notifiEspera.ico" width="30" height="30" />
+                </div>
+            }
+        </div>
+</nav>
+
+    <div class="container-fluid mb-5">
+        @RenderBody()
+    </div>    
+
+    <footer class="footer mt-5">
+        <div class="fixed-bottom text-center bg-primary p-2">
+            <span class="text-light">&copy; 2019 - DXM.Web.Interface</span>
+        </div>
+    </footer>
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+
+
+@if (Convert.ToString(ViewData["Title"]) != "historico" && Convert.ToString(ViewData["Title"]) != "historicoFiltro")
+{
+<script type="text/javascript">  
+    window.onload = function () {        
+        getStatus();
+        setInterval(getStatus, 5000);
+    }
+
+    function getStatus() {
+         var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = JSON.parse(this.responseText)
+                if (re.dxmOnline) {
+                    document.getElementById("sts").setAttribute("src", "/images/notifiOk.ico");
+                }
+                else {
+                    document.getElementById("sts").setAttribute("src", "/images/notifiFalha.ico");
+                }
+                 if (re.loging) {
+                    document.getElementById("loging").setAttribute("style", "visibility:visible");
+                }
+                else {
+                    document.getElementById("loging").setAttribute("style", "visibility:hidden");
+                }
+            }
+        }
+        xhp.open("Get", "/config/Online");
+        xhp.send();
+    }
+
+    function getLog() {
+         var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                toastr.options = {"positionClass": "toast-top-center"}
+                var re = this.responseText
+                if (re == "ok") { toastr.success("sucesso","executado") }
+                else {toastr.error("Erro ao tentar baixar execute uma verificação do arquivo log","Erro")}
+              
+            }
+        }
+        xhp.open("Get", "/config/forceLoging");
+        xhp.send();
+    }
+
+</script>
+}
+   

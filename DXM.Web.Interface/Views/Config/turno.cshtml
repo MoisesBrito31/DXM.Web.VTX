@@ -1,0 +1,174 @@
+﻿
+@using DXM.Protocolo;
+@using Newtonsoft.Json;
+@model List<Evento>;
+@{
+    ViewData["Title"] = "turno";
+    
+}
+
+
+<style>
+    input {
+        max-width: 300px;
+    }
+</style>
+
+<div class="card-title mt-5 mb-5">
+    <div class="row mb-5">
+        <div class="col text-left">
+            <h2>Ajuste dos turnos</h2>
+        </div>
+        <div class="col text-right btn-group">
+            <button type="button" class="btn btn-primary" onclick="document.location.href='/config/index'">Rede</button>
+            <button type="button" class="btn btn-primary disabled" onclick="document.location.href='/config/turno'">Turno</button>
+            <button type="button" class="btn btn-primary " onclick="document.location.href='/config/mapIo'">Mapa I/O</button>
+            <button type="button" class="btn btn-primary" onclick="document.location.href='/config/DxmConfig'">Programar</button>
+            <button type="button" class="btn btn-primary" onclick="document.location.href='/config/reset'">Destravar</button>
+        </div>
+    </div>
+</div>
+
+<div class="m-auto mt-5 form-inline form-group">
+    <label>Relógio do DXM:</label>
+    <input type="text" class="form-control mr-3 ml-3" id="relogio" readonly />
+    <button type="button" class="btn btn-primary mr-3" onclick="getRelogio()">Ler</button>
+    <button type="button" class="btn btn-primary" onclick="setRelogio()">Ajustar</button>
+</div>
+
+<hr>
+
+
+<div class="container-fluid">
+    <div class="p-2 m-auto" style="max-width:800px">
+        <table class="table">
+            <thead>
+                <tr class="bg-dark text-light">
+                    <th>turno:</th>
+                    <th>horário de início:</th>
+                    <th>Ação:</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int x = 0; x < Model.Count; x++)
+                {
+                <tr>
+                    <td><input id="@x nome" type="text" class="form-control" value="@Model[x].nome"/></td>
+                    <td><input id="@x time"type="time" class="form-control" value="@Model[x].start.ToShortTimeString()" /></td>                    
+                    <td>
+                        <button type="button" class="btn btn-primary mr-3" onclick="SetTurno(@x)">Salvar</button>
+                        <button type="button" class="btn btn-danger" onclick="deleteTurno(@x)">Apagar</button>
+                    </td>
+                </tr>
+                }
+                <tr>
+                    <td><input id="nome" type="text" class="form-control" /></td>
+                    <td><input id="time" type="time" class="form-control" /></td>
+                    <td>
+                        <button type="button" class="btn btn-primary mr-3" onclick="addTurno()">Salvar</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var relogio = document.getElementById("relogio")
+        function getRelogio() {
+            var xhp = new XMLHttpRequest()
+            xhp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var re = this.responseText
+                    //alert(re);
+                    if (re == "falha") {
+                        toastr.error("Falha do processo, tente novamente", "Erro")
+
+                    }
+                    else {
+                        relogio.value = re
+                        toastr.success("ação bem sucedida", "sucesso")
+                    }
+                }
+            }
+            xhp.open("Get", "/Config/getRelogio");
+            xhp.send();
+        }
+
+        function setRelogio() {
+            var xhp = new XMLHttpRequest()
+            xhp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var re = this.responseText
+                    //alert(re);
+                    if (re == "ok") {
+                        toastr.success("ação bem sucedida", "sucesso")
+                    }
+                    else {
+                        toastr.error("Falha do processo, tente novamente", "Erro")
+                    }
+                }
+            }
+            xhp.open("Get", "/Config/setRelogio");
+            xhp.send();
+        }
+
+        function addTurno() {
+            var nome = document.getElementById("nome").value
+            var time = document.getElementById("time").value
+            var xhp = new XMLHttpRequest()
+            xhp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var re = this.responseText
+                    //alert(re);
+                    if (re == "ok") {
+                        window.location.reload();
+                    }
+                    else {
+                        toastr.error("Falha do processo, tente novamente", "Erro")
+                    }
+                }
+            }
+            xhp.open("Get", `/Config/addTurno?nome=${nome}&hora=${time}`);
+            xhp.send();
+        }
+
+         function SetTurno(x) {
+             var nome = document.getElementById(`${x} nome`).value
+             var time = document.getElementById(`${x} time`).value
+            var xhp = new XMLHttpRequest()
+            xhp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var re = this.responseText
+                    //alert(re);
+                    if (re == "ok") {
+                        toastr.success("Sucesso","Dados Armazenados")
+                    }
+                    else {
+                        toastr.error("Falha do processo, tente novamente", "Erro")
+                    }
+                }
+            }
+            xhp.open("Get", `/Config/setTurno?id=${x}&nome=${nome}&hora=${time}`);
+            xhp.send();
+        }
+
+         function deleteTurno(x) {           
+            var xhp = new XMLHttpRequest()
+            xhp.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var re = this.responseText
+                    //alert(re);
+                    if (re == "ok") {
+                        window.location.reload();
+                    }
+                    else {
+                        toastr.error("Falha do processo, tente novamente", "Erro")
+                    }
+                }
+            }
+            xhp.open("Get", `/Config/deleteTurno?id=${x}`);
+            xhp.send();
+        }
+
+    </script>

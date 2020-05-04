@@ -1,0 +1,36 @@
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe.config
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csprojAssemblyReference.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Form1.resources
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Properties.Resources.resources
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.GenerateResource.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.exe
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe.config
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csprojAssemblyReference.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Form1.resources
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Properties.Resources.resources
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.GenerateResource.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.exe
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe.config
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.exe
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Controller.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Form1.resources
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.Properties.Resources.resources
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.GenerateResource.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.exe
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Store.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\Newtonsoft.Json.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.Store.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\bin\Release\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Controller\obj\Release\DXM.Controller.csproj.CopyComplete

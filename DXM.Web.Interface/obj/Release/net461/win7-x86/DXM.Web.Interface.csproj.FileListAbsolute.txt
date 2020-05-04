@@ -1,0 +1,1098 @@
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.deps.json
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\Microsoft.Win32.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netfx.force.conflicts.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netstandard.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.AppContext.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Concurrent.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.NonGeneric.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Specialized.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.EventBasedAsync.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.TypeConverter.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Console.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Data.Common.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Contracts.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Debug.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.FileVersionInfo.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Process.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.StackTrace.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tools.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TraceSource.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tracing.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Drawing.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Dynamic.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Calendars.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.ZipFile.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.DriveInfo.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Watcher.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.IsolatedStorage.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.MemoryMappedFiles.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Pipes.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.UnmanagedMemoryStream.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Expressions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Parallel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Queryable.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Http.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NameResolution.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NetworkInformation.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Ping.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Requests.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Security.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Sockets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebHeaderCollection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.Client.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ObjectModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Reader.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.ResourceManager.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Writer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Handles.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Numerics.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Formatters.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Xml.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Claims.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Algorithms.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Csp.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Encoding.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.X509Certificates.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Principal.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.SecureString.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.RegularExpressions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Overlapped.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.Parallel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Thread.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.ThreadPool.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Timer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ValueTuple.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.ReaderWriter.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlSerializer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.XDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Core.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.CookiePolicy.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cors.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HostFiltering.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Localization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Language.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Razor.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Configuration.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Console.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.ObjectPool.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.WebEncoders.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Net.Http.Headers.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\dotnet-aspnet-codegenerator-design.exe
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Registry.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.Bson.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\NuGet.Frameworks.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Remotion.Linq.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Buffers.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Immutable.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Annotations.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.AttributedModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Convention.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Hosting.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.TypedParts.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.SqlClient.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.DiagnosticSource.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Interactive.Async.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipelines.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Memory.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Numerics.Vectors.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Metadata.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.AccessControl.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Cng.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Xml.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Permissions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.Windows.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.CodePages.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encodings.Web.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\netstandard.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.AppContext.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Concurrent.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.NonGeneric.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Specialized.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.EventBasedAsync.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.TypeConverter.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Console.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.Common.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Contracts.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Debug.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.FileVersionInfo.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Process.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.StackTrace.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TextWriterTraceListener.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tools.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TraceSource.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tracing.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Drawing.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Dynamic.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Calendars.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.ZipFile.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.DriveInfo.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Watcher.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.IsolatedStorage.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.MemoryMappedFiles.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipes.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.UnmanagedMemoryStream.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Expressions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Parallel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Queryable.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Http.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NameResolution.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NetworkInformation.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Ping.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Requests.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Security.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Sockets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebHeaderCollection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.Client.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ObjectModel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Reader.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.ResourceManager.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Writer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.VisualC.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Handles.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Numerics.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Formatters.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Xml.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Claims.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Algorithms.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Csp.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Encoding.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Primitives.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.X509Certificates.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.SecureString.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.Extensions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.RegularExpressions.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Overlapped.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Parallel.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Thread.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.ThreadPool.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Timer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ValueTuple.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.ReaderWriter.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlSerializer.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.XDocument.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\EasyModbus.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfoInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfo.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.input.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.output.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorCoreGenerate.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\About.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Contact.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Index.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historico.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\Index.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\linha.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\offline.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\push\Index.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewImports.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewStart.g.cshtml.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cs
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CopyComplete
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historicoFiltro.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.deps.json
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\Microsoft.Win32.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netfx.force.conflicts.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netstandard.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.AppContext.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Concurrent.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.NonGeneric.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Specialized.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.EventBasedAsync.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.TypeConverter.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Console.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Data.Common.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Contracts.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Debug.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.FileVersionInfo.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Process.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.StackTrace.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tools.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TraceSource.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tracing.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Drawing.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Dynamic.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Calendars.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.ZipFile.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.DriveInfo.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Watcher.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.IsolatedStorage.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.MemoryMappedFiles.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Pipes.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.UnmanagedMemoryStream.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Expressions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Parallel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Queryable.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Http.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NameResolution.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NetworkInformation.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Ping.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Requests.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Security.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Sockets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebHeaderCollection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.Client.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ObjectModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Reader.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.ResourceManager.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Writer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Handles.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Numerics.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Formatters.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Xml.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Claims.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Algorithms.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Csp.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Encoding.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.X509Certificates.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Principal.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.SecureString.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.RegularExpressions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Overlapped.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.Parallel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Thread.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.ThreadPool.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Timer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ValueTuple.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.ReaderWriter.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlSerializer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.XDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Core.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.CookiePolicy.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cors.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HostFiltering.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Localization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Language.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Razor.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Configuration.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Console.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.ObjectPool.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.WebEncoders.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Net.Http.Headers.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\dotnet-aspnet-codegenerator-design.exe
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Registry.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.Bson.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\NuGet.Frameworks.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Remotion.Linq.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Buffers.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Immutable.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Annotations.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.AttributedModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Convention.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Hosting.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.TypedParts.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.SqlClient.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.DiagnosticSource.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Interactive.Async.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipelines.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Memory.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Numerics.Vectors.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Metadata.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.AccessControl.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Cng.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Xml.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Permissions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.Windows.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.CodePages.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encodings.Web.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\netstandard.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.AppContext.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Concurrent.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.NonGeneric.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Specialized.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.EventBasedAsync.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.TypeConverter.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Console.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.Common.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Contracts.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Debug.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.FileVersionInfo.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Process.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.StackTrace.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TextWriterTraceListener.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tools.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TraceSource.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tracing.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Drawing.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Dynamic.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Calendars.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.ZipFile.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.DriveInfo.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Watcher.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.IsolatedStorage.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.MemoryMappedFiles.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipes.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.UnmanagedMemoryStream.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Expressions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Parallel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Queryable.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Http.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NameResolution.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NetworkInformation.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Ping.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Requests.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Security.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Sockets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebHeaderCollection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.Client.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ObjectModel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Reader.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.ResourceManager.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Writer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.VisualC.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Handles.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Numerics.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Formatters.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Xml.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Claims.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Algorithms.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Csp.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Encoding.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Primitives.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.X509Certificates.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.SecureString.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.Extensions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.RegularExpressions.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Overlapped.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Parallel.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Thread.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.ThreadPool.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Timer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ValueTuple.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.ReaderWriter.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlSerializer.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.XDocument.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\EasyModbus.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.Properties.Resources.resources
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.GenerateResource.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfoInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfo.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.input.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.output.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorCoreGenerate.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\About.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Contact.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Index.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historico.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historicoFiltro.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\Index.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\linha.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\offline.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\push\Index.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewImports.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewStart.g.cshtml.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cs
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CopyComplete
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.deps.json
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.exe
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\Microsoft.Win32.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netfx.force.conflicts.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\netstandard.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.AppContext.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Concurrent.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.NonGeneric.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Collections.Specialized.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Console.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Data.Common.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Contracts.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Debug.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Process.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.StackTrace.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tools.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.TraceSource.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Diagnostics.Tracing.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Drawing.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Dynamic.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Calendars.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Globalization.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Compression.ZipFile.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.IsolatedStorage.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.Pipes.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Expressions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Parallel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Linq.Queryable.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Http.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NameResolution.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.NetworkInformation.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Ping.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Requests.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Security.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.Sockets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebHeaderCollection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.Client.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Net.WebSockets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ObjectModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Reflection.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Reader.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.ResourceManager.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Resources.Writer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Handles.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Numerics.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Claims.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Csp.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.Principal.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Security.SecureString.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.Encoding.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Text.RegularExpressions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Overlapped.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Thread.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.ThreadPool.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Threading.Timer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.ValueTuple.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.ReaderWriter.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XmlSerializer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\refs\System.Xml.XPath.XDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Registry.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Newtonsoft.Json.Bson.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\NuGet.Frameworks.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Remotion.Linq.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Buffers.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Immutable.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Annotations.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Convention.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Hosting.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Composition.TypedParts.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.SqlClient.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Interactive.Async.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipelines.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Memory.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Numerics.Vectors.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Metadata.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.AccessControl.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Cng.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Xml.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Permissions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.Windows.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.CodePages.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\Microsoft.Win32.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\netstandard.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.AppContext.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Concurrent.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.NonGeneric.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Collections.Specialized.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.EventBasedAsync.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Console.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Data.Common.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Contracts.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Debug.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.FileVersionInfo.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Process.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.StackTrace.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tools.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.TraceSource.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Diagnostics.Tracing.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Drawing.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Dynamic.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Calendars.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Globalization.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Compression.ZipFile.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.DriveInfo.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.FileSystem.Watcher.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.IsolatedStorage.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.MemoryMappedFiles.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.Pipes.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.IO.UnmanagedMemoryStream.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Expressions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Parallel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Linq.Queryable.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Http.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NameResolution.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.NetworkInformation.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Ping.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Requests.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Security.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.Sockets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebHeaderCollection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.Client.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Net.WebSockets.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ObjectModel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Reflection.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Reader.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.ResourceManager.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Resources.Writer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Handles.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Numerics.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Formatters.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Runtime.Serialization.Xml.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Claims.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Algorithms.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Csp.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Encoding.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.Primitives.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Cryptography.X509Certificates.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.Principal.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Security.SecureString.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.Encoding.Extensions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Text.RegularExpressions.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Overlapped.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Tasks.Parallel.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Thread.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.ThreadPool.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Threading.Timer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.ValueTuple.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.ReaderWriter.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XmlSerializer.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\System.Xml.XPath.XDocument.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Store.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\EasyModbus.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\bin\Release\net461\win7-x86\DXM.Store.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe.config
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.Properties.Resources.resources
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.GenerateResource.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorAssemblyInfo.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfoInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.AssemblyInfo.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.input.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.TagHelpers.output.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorCoreGenerate.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historico.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\historicoFiltro.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\Index.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\linha.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\oee\offline.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\push\Index.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.RazorTargetAssemblyInfo.cs
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.Views.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.csproj.CopyComplete
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.exe
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Web.Interface\obj\Release\net461\win7-x86\DXM.Web.Interface.pdb

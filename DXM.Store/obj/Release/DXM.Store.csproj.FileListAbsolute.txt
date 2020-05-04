@@ -1,0 +1,39 @@
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\Newtonsoft.Json.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.pdb
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csprojAssemblyReference.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CoreCompileInputs.cache
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CopyComplete
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.dll
+C:\Users\automacao\Desktop\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\Newtonsoft.Json.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.pdb
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csprojAssemblyReference.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CoreCompileInputs.cache
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CopyComplete
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.dll
+F:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\Newtonsoft.Json.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.pdb
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csprojAssemblyReference.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CoreCompileInputs.cache
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CopyComplete
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.dll
+C:\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.Store.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\Newtonsoft.Json.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\bin\Release\DXM.OEE.pdb
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CoreCompileInputs.cache
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.csproj.CopyComplete
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.dll
+E:\pendrive moises\Progras criados por mim\DXM100 estudos\DXM.Web.Interface\DXM.Store\obj\Release\DXM.Store.pdb

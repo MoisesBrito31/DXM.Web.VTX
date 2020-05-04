@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="card-title mt-5 mb-5">
+    <div class="row mb-5">
+        <div class="col text-left">
+            <h2>Registre sua Cópia de Software</h2>
+        </div>
+    </div>
+</div>
+<hr>
+
+<div class=" m-auto " style="max-width:500px; min-height:180px">
+    <form action="/licenca/registrar" method="post">
+        <div class="form-group mt-5">
+            <label for="user">Proprietário do Registro:</label>
+           
+            @if (ViewBag.user == "indefinido")
+            {
+                <input type="text" name="user" id="user" class="form-control mb-2" onkeyup="valida()" />
+            }
+            else
+            {
+
+                <input type="text" name="user" id="user" class="form-control mb-2" onkeyup="valida()" value="@ViewBag.user" />
+            }
+
+        </div>
+        <div class="form-group mt-5">
+            <label for="serial">Número de registro:</label>
+            <input type="text" name="serial" id="serial" class="form-control mb-2" onkeyup="valida()"/>
+        </div>
+        <button class="btn btn-success" type="submit" id="btnReg" style="visibility:hidden">registrar</button>
+    </form>
+</div>
+
+<hr />
+<div class="card-title text-center mb-4 mt-4"><h3></h3></div>
+<div>
+    <div class="row">
+        <div class="col text-right mt-auto mb-auto">
+            <a href="http://www.e-servicerio.com.br" target="_blank"><img src="~/images/logo e-service rio.png" /></a>
+        </div>
+        <div class="col">
+            <p><strong>Contatos:</strong></p>
+            <p><a href="http://www.e-servicerio.com.br" target="_blank">www.e-servicerio.com.br</a></p>
+            <p>comercial@e-servicerio.com.br</p>
+            <p> Tels.: (21) 3435-0514 / 2179-9388 / 2179-9386 / 96888-2187</p>
+        </div>
+    </div>
+</div>
+
+<script>
+    var cespecial = /(\!|\#|@@|\$|\%|\¨|\&|\*| \_ | \-| \+|\=|\<|\>|\:|\;|\,|\.|\?)/
+        
+    var cminus = /[a-z]/
+
+    function valida() {
+        var s = document.getElementById("serial").value
+        var nome = document.getElementById("user").value
+        //alert("S: "+s+"NOME: "+nome)
+        if (!cespecial.test(s) && !cminus.test(s) && nome.length > 0 && s.length === 32) {
+            //alert(s.length=32 + " " + nome.length>0)
+            document.getElementById("btnReg").setAttribute("style", "visibility:visible")
+        }
+        else {
+            document.getElementById("btnReg").setAttribute("style", "visibility:hidden")
+        }
+       
+        
+    }
+</script>
