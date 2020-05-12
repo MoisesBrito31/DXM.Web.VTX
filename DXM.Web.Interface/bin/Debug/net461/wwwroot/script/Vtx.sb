@@ -1,8 +1,5 @@
-motores=2
-A_V_rms_vel_x[0]=0
-A_V_rms_vel_z[0]=0
-A_Temp[0]=0
-A_V_rms_vel_x[1]=0
-A_V_rms_vel_z[1]=0
-A_Temp[1]=0
-trig_log=1
+motores=1
+A_V_rms_vel_x[0]=10000
+A_V_rms_vel_z[0]=500
+A_Temp[0]=10000
+trig_log=60

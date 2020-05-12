@@ -39,3 +39,18 @@ C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netst
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.pdb
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.VTX.dll
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.VTX.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\Script.cs
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.Protocolo.deps.json
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.Protocolo.dll
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.Protocolo.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.OEE.dll
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.VTX.dll
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.OEE.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\bin\Debug\netstandard2.0\DXM.VTX.pdb
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.dll
+C:\Users\User\Documents\GitHub\DXM.Web.VTX\DXM.Protocolo\obj\Debug\netstandard2.0\DXM.Protocolo.pdb

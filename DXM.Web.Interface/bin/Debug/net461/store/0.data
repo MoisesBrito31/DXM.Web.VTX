@@ -7,3 +7,13 @@
 {"id":0,"time":"2020-05-11T21:43:13.9231465-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":null}
 {"id":0,"time":"2020-05-11T21:52:49.9016948-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OK"}
 {"id":0,"time":"2020-05-11T21:54:51.5938215-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OK"}
+{"id":0,"time":"2020-05-12T11:22:22.3480658-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OK"}
+{"id":0,"time":"2020-05-12T11:24:23.618002-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OK"}
+{"id":0,"time":"2020-05-12T11:26:26.2070137-03:00","V_Rms_Vel_X":121.0,"V_Rms_Vel_Z":125.0,"temperatura":34.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OK"}
+{"id":0,"time":"2020-05-12T13:36:37.7725224-03:00","V_Rms_Vel_X":0.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T13:38:38.7984447-03:00","V_Rms_Vel_X":0.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":0.0,"alert_v_Rms_Vel_X":0.0,"alert_v_Rms_Vel_Z":0.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T13:40:39.841368-03:00","V_Rms_Vel_X":5000.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":10000.0,"alert_v_Rms_Vel_X":10000.0,"alert_v_Rms_Vel_Z":500.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T13:42:40.9752965-03:00","V_Rms_Vel_X":5000.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":10000.0,"alert_v_Rms_Vel_X":10000.0,"alert_v_Rms_Vel_Z":500.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T13:44:42.0092192-03:00","V_Rms_Vel_X":5000.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":10000.0,"alert_v_Rms_Vel_X":10000.0,"alert_v_Rms_Vel_Z":500.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T13:46:58.0500003-03:00","V_Rms_Vel_X":5000.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":10000.0,"alert_v_Rms_Vel_X":10000.0,"alert_v_Rms_Vel_Z":500.0,"Estado":"OffLine"}
+{"id":0,"time":"2020-05-12T16:55:42.8405996-03:00","V_Rms_Vel_X":0.0,"V_Rms_Vel_Z":0.0,"temperatura":0.0,"alert_tempe":10000.0,"alert_v_Rms_Vel_X":10000.0,"alert_v_Rms_Vel_Z":500.0,"Estado":"OffLine"}

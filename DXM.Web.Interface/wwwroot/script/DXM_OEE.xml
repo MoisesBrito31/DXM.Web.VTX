@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <configuration>
   <file_info>
-    <info filename="DXM_OEE.xml" guid="4ee4e474-e06f-412b-a549-56f0f9b5a81d" software="DXMConfigurationSoftware v4" timestamp="09/04/2020 02:14:09" version="4.2.5.0" os="Win32NT" osversion="Microsoft Windows NT 6.2.9200.0" device="DXM100" solution="None" />
+    <info filename="DXM_OEE.xml" guid="042f789f-5727-47af-b55a-175fa899f92c" software="DXMConfigurationSoftware v4" timestamp="12/05/2020 14:18:39" version="4.2.5.0" os="Win32NT" osversion="Microsoft Windows NT 6.1.7601 Service Pack 1" device="DXM100" solution="None" />
   </file_info>
-  <local_regs>
-    <reg logfiles="1" num="122" name="zerar" />
-  </local_regs>
+  <local_regs />
   <cascade />
   <constant />
   <calculate />
   <thresholds />
   <trend />
   <rtu_read />
-  <rtu_write>
-    <rule count="1" mask="0" name="zerar_conEnt" offset="0" poll="1" remfmt="int" remreg="46" remtype="hold_reg" scale="0" swapped="0" unit="1" localreg="122" fill="0" />
-  </rtu_write>
+  <rtu_write />
   <sched_holidays />
   <sched_commands />
   <sched_events />

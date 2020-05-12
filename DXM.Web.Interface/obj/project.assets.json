@@ -9945,19 +9945,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Moises Brito\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\DXM.Web.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\DXM.Web.Interface.csproj",
       "projectName": "DXM.Web.Interface",
-      "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\DXM.Web.Interface.csproj",
-      "packagesPath": "C:\\Users\\Moises Brito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\DXM.Web.Interface.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Web.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Moises Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9970,17 +9970,17 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
-              "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
             },
-            "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {
-              "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj"
             },
-            "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Store\\DXM.Store.csproj": {
-              "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Store\\DXM.Store.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Store\\DXM.Store.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Store\\DXM.Store.csproj"
             },
-            "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
-              "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj"
             }
           }
         }

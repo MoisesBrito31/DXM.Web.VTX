@@ -1,46 +1,32 @@
-linhas=3
-vel_esp[0]=40
-forma[0]=0
-t_p_prog[0]=1
-vel_esp[1]=50
-forma[1]=0
-t_p_prog[1]=2
-vel_esp[2]=43
-forma[2]=0
-t_p_prog[2]=0
-trig_log=10
+motores=1
+a_vx[0]=10000
+a_vz[0]=10000
+a_t[0]=500
+trig_log=1
 'inicio
-'vers?o 1.8.0
+'vers?o 1.0.0
 'linha ? composta de 1-5, conjunto de linhas vai 1-80
 '89 - ativa emulador
 '90 - quantidades de linhas ativas 
 '91 - reset geral
 ' resultados de OEE 100-113 por linha, conjunto de desultados ? de 100-338
 
-WrErr = SETREG(90, linhas, 199, 4)
-FOR x = 0 to 16
-	cont_in[x]=0   
-	cont_out[x]=0    
-	maq_sts[x]=0  
-	oee[x]=0
-	per[x]=0  
-	q[x]=0    
-	dis[x]=0 
-	cont_ini[x]=0  
-	cont_fim[x]=0  
-	vel_atu[x]=0  
-	zera[x]=0 
-	t_par[x]=0     
-	t_prod[x]=0 
-	t_parS[x]=0    
-	t_prodS[x]=0 
-	emuContador[x]=0
-	WrErr = SETREG(108+(13*x), vel_esp[x], 199, 4)
-	WrErr = SETREG(110+(13*x), forma[x], 199, 4)
-	WrErr = SETREG(111+(13*x), t_p_prog[x], 199, 4)
-NEXT x
 
- 
+WrErr = SETREG(850, motores, 199, 4)
+WrErr = SETREG(31, a_vx, 199, 4)
+WrErr = SETREG(32, a_vz, 199, 4)
+WrErr = SETREG(33, a_t, 199, 4)
+
+v_x=0
+cont_a_vx=0
+v_z=0
+cont_a_vz=0
+temperatura=0
+cont_a_temp=0
+
+estado=0
+comando=0
+
 tp = 0
 tempo =2
 
@@ -58,112 +44,35 @@ timer_log=0
 
 
 FUNCTION loging
-	for x=0 to linhas-1
-		outRet = FILEOUT(10,0,0,"{\"id\":" & x & ",\"time\":\"2020-04-01T09:17:52-03:00\"" & ",\"oee\":" & int(oee[x]) & ",\"dis\":" & int(dis[x]) & ",\"q\":" & int(q[x]) & ",\"per\":" & int(per[x]) & ",\"vel_atu\":" & vel_atu[x] & ",\"bons\":" & cont_out[x] & ",\"ruins_total\":" & cont_in[x] & ",\"t_prod\":" & t_prod[x] & ",\"t_par\":" & t_par[x] & "}"&"\r\n")		
-	next x	
-	timer_log=1
+	for x=0 to motores-1
+		outRet = FILEOUT(10,0,0,"{\"id\":" & x & ",\"time\":\"2020-04-01T09:17:52-03:00\"" & ",\"V_Rms_Vel_X\":" & v_x & ",\"V_Rms_Vel_Z\":" & v_z & ",\"temperatura\":" & temperatura & ",\"alert_tempe\":" & a_t[0] & ",\"alert_v_Rms_Vel_X\":" & a_vx[0] & ",\"alert_v_Rms_Vel_Z\":" & a_vz[0] & ",\"Estado\":" & estado & "}"&"\r\n"	
+	next x
+		timer_log=1
 END FUNCTION
 
-FUNCTION inPuts
-	linhas=GETREG(90,199,4)	
-	IF linhas = 0 THEN
-		linhas = 1		
-	END IF	
-    emulador = GETREG(89,199,4)	
-	reset_geral = GETREG(91,199,4)
-	
-
-	FOR x = 0 to linhas-1
-		vel_esp[x] = GETREG(108+(13*x),199,4)
-		IF vel_esp[x] = 0 THEN 
-			vel_esp[x] = 300 
-			WrErr = SETREG(108+(13*x), 300, 199, 4)
-		END IF
-		
-		zera[x] = GETREG(109+(13*x),199,4)		
-		
-		forma[x] = GETREG(110+(13*x),199,4)
-		
-		t_p_prog[x] = GETREG(111+(13*x),199,4)
-		
-		'--------------fim das inputs se sistema
-		
-		cont_in[x] = GETREG(1+(5*x)+1,199,4)
-		temp_cont_in= GETREG(1+(5*x)+0,199,4)
-		cont_out[x] = GETREG(1+(5*x)+3,199,4)
-		temp_cont_out = GETREG(1+(5*x)+2,199,4)
-		maq_sts[x] = GETREG(1+(5*x)+4,199,4)
-		cont_in[x] = cont_in[x]+ (temp_cont_in*65536)
-		cont_out[x] = cont_out[x]+(temp_cont_out*65536)
-	
+FUNCTION inPuts	
+	motores=GETREG(850,199,4)	
+	FOR x = 0 to motores-1
+		v_x=GETREG(25+(16*x)+1,199,4)
+		v_z=GETREG(25+(16*x)+2,199,4)
+		temperatura=(25+(16*x)+5,199,4)
+		comando =(25+(16*x)+9,199,4)
+		a_vx[x] = GETREG(25+(16*x)+7,199,4)
+		a_vz[x] = GETREG(25+(16*x)+8,199,4)
+		a_t[x] = GETREG(25+(16*x)+6,199,4)	
 	NEXT x
 END FUNCTION
 
-FUNCTION outPuts
-	WrErr = SETREG(90, linhas, 199, 4)
+FUNCTION outPuts	
 	WrErr = SETREG(500, timer_log, 199, 4)
-	'WrErr = SETREG(501, log_t, 199, 4)
-	'WrErr = SETREG(502, trig_log, 199, 4)
-	FOR x=0 to linhas-1
-		WrErr = SETREG(101+(13*x), oee[x], 199, 4)
-		WrErr = SETREG(102+(13*x), per[x], 199, 4)
-		WrErr = SETREG(103+(13*x), q[x], 199, 4)
-		WrErr = SETREG(104+(13*x), dis[x], 199, 4)
-		WrErr = SETREG(105+(13*x), cont_ini[x], 199, 4) 
-		WrErr = SETREG(106+(13*x), cont_fim[x], 199, 4) 
-		WrErr = SETREG(107+(13*x), vel_atu[x], 199, 4) 
-		WrErr = SETREG(109+(13*x), zera[x], 199, 4)  
-		WrErr = SETREG(112+(13*x), t_par[x], 199, 4)  
-		WrErr = SETREG(113+(13*x), t_prod[x], 199, 4)
+	WrErr = SETREG(850, motores, 199, 4)	
+	FOR x=0 to motores-1
+		WrErr = SETREG(25+(16*x)+9, estado, 199, 4)		
 	NEXT x	
 END FUNCTION
 
-FUNCTION Disponibilidade
-	FOR x=0 to linhas-1
-		t_temp=0
-		IF maq_sts[x] = 1 Then		
-			t_parS[x] = t_parS[x]+2	
-			IF t_parS[x] > 59 Then
-				t_par[x] = t_par[x]+1
-				t_parS[x] = 0
-			END IF 
-		Else
-			t_prodS[x] = t_prodS[x]+2	
-			IF t_prodS[x] > 59 Then
-				t_prod[x] = t_prod[x]+1
-				t_prodS[x] = 0
-			END IF 
-		END IF
-		
-		t_temp=t_par[x]-t_p_prog[x]
-		
-		if t_temp<=0 then 
-			t_temp=0
-		end if
-		if t_prod[x]=0 then
-			dis[x]=0
-		else
-			dis[x]=t_prod[x]/(t_temp+t_prod[x])*100	
-		end if
-	NEXT x	
-END FUNCTION
 
-FUNCTION performace
-	FOR x= 0 to linhas-1
-		per_temp = 0
-		IF tempo=2 THEN
-			cont_ini[x] = cont_in[x]
-		END IF
-		IF tempo>59 THEN			
-			cont_fim[x] = cont_in[x]			
-			tp=cont_fim[x]-cont_ini[x]
-			if tp > 0 THEN
-				vel_atu[x]=tp
-			END IF			
-		END IF	
-			per_temp =vel_atu[x]/vel_esp[x]*100
-			per[x] = (per[x]+per_temp)/2
-	NEXT x	
+FUNCTION timer
 	
 	IF timer_log>0 THEN
 		timer_log=timer_log+1
@@ -184,95 +93,34 @@ FUNCTION performace
 	tempo=tempo+2	
 END FUNCTION
 
-FUNCTION qualidade
-	FOR x=0 to linhas-1
-		IF cont_in[x]=0 and cont_out[x]=0 THEN
-			q[x]=0
-		else
-			IF forma[x] = 0 THEN
-				q[x]=cont_in[x]/(cont_in[x]+cont_out[x])*100
-			END IF
-			IF forma[x] = 1 THEN
-				q[x]=cont_out[x]/cont_in[x]*100
-			END IF 	
-		END IF 
-	NEXT x
-END FUNCTION
 
-FUNCTION oeeCalc
-	FOR x= 0 to linhas-1
-		oee[x] = (dis[x]/100)*(per[x]/100)*(q[x]/100)*100
-	NEXT x
-END FUNCTION
-
-FUNCTION emular
-	FOR x = 0 to linhas-1	
-		erro = SETREG(2+x*5,emuContador,199,4)
-		if maq_sts[x] = 0 THEN 
-			emuContador[x]=emuContador[x]+x+1
+FUNCTION vt
+	if v_x > a_vx[0] and estado<>2 THEN
+		cont_a_vx=cont_a_vx+1
+		if cont_a_vx > 5 Then
+			estado = 3
 		END IF
-	NEXT x
+		if cont_a_vx > 10 Then
+			estado = 2
+			cont_a_vx=0
+		END IF
+	else		
+		cont_a_vx=0
+		estado = 1		
+	END IF	
+	if comando==1 then
+		estado = 1
+	end if
 END FUNCTION
-
-function zerar
-	for x = 0 to linhas-1
-	if reset_geral <> 0 then	
-		if x=0 then
-		WrErr = SETREG(91, 0, 199, 4) 
-		end if
-		zera[x]=1
-	end if
-	next x
-	
-	IF reset_geral = 1 THEN
-		loging()
-	END IF
-	
-	for x = 0 to linhas-1
-	if zera[x] <> 0 then		
-		cont_in[x]=0   
-		cont_out[x]=0    
-		maq_sts[x]=0  
-		oee[x]=0
-		per[x]=0  
-		q[x]=0    
-		dis[x]=0 
-		cont_ini[x]=0  
-		cont_fim[x]=0  
-		vel_atu[x]=0  
-		vel_esp[x]=0 		
-		forma[x]=0     
-		t_p_prog[x]=0  
-		t_par[x]=0     
-		t_prod[x]=0 
-		t_parS[x]=0    
-		t_prodS[x]=0 
-		emuContador[x] =0	
-		
-		zera[x]=zera[x]+1 
-		if zera[x]>2 then
-			zera[x]=0				
-		end if
-	end if
-	next x
-end function
 
 
 
 loging()
 while(1)	
 	TimeStamp = NOW
-	
-	if emulador = 1 Then
-		emular()
-	END IF
-	
 	inputs()
-	disponibilidade()	
-	performace()
-	qualidade()
-	oeeCalc()	
-	zerar()	
+	vt()
+	timer()
 	outPuts()
 	
 	
