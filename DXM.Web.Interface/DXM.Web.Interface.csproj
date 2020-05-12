@@ -44,6 +44,7 @@
     <ProjectReference Include="..\DXM.OEE\DXM.OEE.csproj" />
     <ProjectReference Include="..\DXM.Protocolo\DXM.Protocolo.csproj" />
     <ProjectReference Include="..\DXM.Store\DXM.Store.csproj" />
+    <ProjectReference Include="..\DXM.VTX\DXM.VTX.csproj" />
   </ItemGroup>
 
   <ItemGroup>

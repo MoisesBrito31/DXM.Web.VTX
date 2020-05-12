@@ -18,11 +18,11 @@ namespace DXM.Web.Interface
         {
             Program.banco = new Store.Store();
             JavaScriptSerializer ser = new JavaScriptSerializer();
-            OEE.OEE foo = ser.Deserialize<OEE.OEE>(Program.banco.Fabrica);
+            VTX.VTX foo = ser.Deserialize<VTX.VTX>(Program.banco.Fabrica);
 
-            Program.oee = new OEE.OEE(foo.quantidade, foo.Linhas, foo.DXM_Endress, foo.emulador,foo.tickLog);
-            if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.oee.DXM_Endress, 502); }
-            else { Program.dxm = new ModbusClient(Program.oee.DXM_Endress); }
+            Program.vt = new VTX.VTX(foo.quantidade, foo.motores, foo.DXM_Endress,foo.tickLog);
+            if (Program.vt.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
+            else { Program.dxm = new ModbusClient(Program.vt.DXM_Endress); }
 
             ThreadStart start = new ThreadStart(Program.leituraDXM);
             Thread acao = new Thread(start);
@@ -37,7 +37,7 @@ namespace DXM.Web.Interface
 
             Thread.Sleep(1000);
             if (!Program.registrado) { Program.urlString = "http://localhost:5001"; }
-            Program.mapa.alteraQtdLinhas(Program.oee.Linhas.Count);
+            Program.mapa.alteraQtdLinhas(Program.vt.motores.Count);
         }
 
         protected override void OnStarted()

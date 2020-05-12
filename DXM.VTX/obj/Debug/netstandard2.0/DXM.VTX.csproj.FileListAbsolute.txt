@@ -1,0 +1,8 @@
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\bin\Debug\netstandard2.0\DXM.VTX.deps.json
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\bin\Debug\netstandard2.0\DXM.VTX.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\bin\Debug\netstandard2.0\DXM.VTX.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\obj\Debug\netstandard2.0\DXM.VTX.csprojAssemblyReference.cache
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\obj\Debug\netstandard2.0\DXM.VTX.AssemblyInfoInputs.cache
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\obj\Debug\netstandard2.0\DXM.VTX.AssemblyInfo.cs
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\obj\Debug\netstandard2.0\DXM.VTX.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.VTX\obj\Debug\netstandard2.0\DXM.VTX.pdb

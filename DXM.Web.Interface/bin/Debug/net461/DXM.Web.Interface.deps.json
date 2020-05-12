@@ -27,6 +27,7 @@
           "DXM.OEE": "1.0.0",
           "DXM.Protocolo": "1.0.0",
           "DXM.Store": "1.0.0",
+          "DXM.VTX": "1.0.0",
           "Microsoft.AspNetCore": "2.1.7",
           "Microsoft.AspNetCore.CookiePolicy": "2.1.2",
           "Microsoft.AspNetCore.Hosting.WindowsServices": "2.0.2",
@@ -2139,7 +2140,8 @@
       },
       "DXM.Protocolo/1.0.0": {
         "dependencies": {
-          "DXM.OEE": "1.0.0"
+          "DXM.OEE": "1.0.0",
+          "DXM.VTX": "1.0.0"
         },
         "compile": {
           "DXM.Protocolo.dll": {}
@@ -2147,10 +2149,16 @@
       },
       "DXM.Store/1.0.0": {
         "dependencies": {
-          "DXM.OEE": "1.0.0"
+          "DXM.OEE": "1.0.0",
+          "DXM.VTX": "1.0.0"
         },
         "compile": {
           "DXM.Store.dll": {}
+        }
+      },
+      "DXM.VTX/1.0.0": {
+        "compile": {
+          "DXM.VTX.dll": {}
         }
       },
       "EasyModbus/5.5.0.0": {
@@ -2165,6 +2173,7 @@
           "DXM.OEE": "1.0.0",
           "DXM.Protocolo": "1.0.0",
           "DXM.Store": "1.0.0",
+          "DXM.VTX": "1.0.0",
           "Microsoft.AspNetCore": "2.1.7",
           "Microsoft.AspNetCore.CookiePolicy": "2.1.2",
           "Microsoft.AspNetCore.Hosting.WindowsServices": "2.0.2",
@@ -3660,7 +3669,8 @@
       },
       "DXM.Protocolo/1.0.0": {
         "dependencies": {
-          "DXM.OEE": "1.0.0"
+          "DXM.OEE": "1.0.0",
+          "DXM.VTX": "1.0.0"
         },
         "runtime": {
           "DXM.Protocolo.dll": {}
@@ -3668,10 +3678,16 @@
       },
       "DXM.Store/1.0.0": {
         "dependencies": {
-          "DXM.OEE": "1.0.0"
+          "DXM.OEE": "1.0.0",
+          "DXM.VTX": "1.0.0"
         },
         "runtime": {
           "DXM.Store.dll": {}
+        }
+      },
+      "DXM.VTX/1.0.0": {
+        "runtime": {
+          "DXM.VTX.dll": {}
         }
       },
       "EasyModbus/5.5.0.0": {
@@ -4965,6 +4981,11 @@
       "sha512": ""
     },
     "DXM.Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DXM.VTX/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

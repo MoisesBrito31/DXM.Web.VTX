@@ -52,6 +52,10 @@
       <Project>{d16fb35c-633c-49fb-ae9b-03ca7b9b8c84}</Project>
       <Name>DXM.OEE</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DXM.VTX\DXM.VTX.csproj">
+      <Project>{670B2707-4F72-4862-924D-A4D3404EB47C}</Project>
+      <Name>DXM.VTX</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

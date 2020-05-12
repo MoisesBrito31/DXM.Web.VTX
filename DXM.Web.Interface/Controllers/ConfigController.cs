@@ -21,7 +21,7 @@ namespace DXM.Web.Interface.Controllers
         {            
             ViewBag.sucesso = sucesso;
             //if (!Program.registrado) { return RedirectToAction("index", "licenca"); }
-            return View(Program.oee);
+            return View(Program.vt);
         }
         public IActionResult DxmConfig()
         {
@@ -46,6 +46,7 @@ namespace DXM.Web.Interface.Controllers
             return View(Program.mapa.turnos);
         }
 
+        /*
         public string setLinhaNome(int id, string valor, int t_p_p, string forma, int vel_esp)
         {
             //if (!Program.registrado) { r/eturn "falha"; }
@@ -59,13 +60,13 @@ namespace DXM.Web.Interface.Controllers
 
                 if (!Program.dxm.Connected)
                 {
-                    if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.oee.DXM_Endress, 502); }
-                    else { Program.dxm = new ModbusClient((Program.oee.DXM_Endress)); }
+                    if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
+                    else { Program.dxm = new ModbusClient((Program.vt.DXM_Endress)); }
                     Program.dxm.ConnectionTimeout = 3000;
                     Program.dxm.Connect();
                 }
-            Program.oee.Linhas[id].nome = valor;
-            Program.mapa.alteraNomeLinhas(Program.oee);
+            Program.vt.motores[id].nome = valor;
+            Program.mapa.alteraNomeMotores(Program.vt);
             Program.dxm.WriteMultipleRegisters(110 + (id * 13), reg);
             Program.dxm.WriteMultipleRegisters(109 + (id * 13), reg2);
             Program.dxm.WriteMultipleRegisters(107 + (id * 13), reg3);
@@ -83,6 +84,7 @@ namespace DXM.Web.Interface.Controllers
                 return ex.Message;
             }
         }
+        */
 
         public string setTurno(int id, string nome, string hora)
         {
@@ -137,6 +139,7 @@ namespace DXM.Web.Interface.Controllers
             }
         }
 
+        /*
         public string zerarLinha(int id)
         {
             //if (!Program.registrado) { return "falha"; }
@@ -161,7 +164,7 @@ namespace DXM.Web.Interface.Controllers
                 return ex.Message;
             }
         }
-
+        */
         [HttpPost]
         public string setXml(string json)
         {
@@ -188,12 +191,12 @@ namespace DXM.Web.Interface.Controllers
            // if (!Program.registrado) { return "falha"; }
             try
             {
-                Program.oee.DXM_Endress = ip;
-                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
+                Program.vt.DXM_Endress = ip;
+                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.vt));
                 Program.dxm.Disconnect();
                 Thread.Sleep(5000);
-                Program.oee.flush();
-                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
+                Program.vt.flush();
+                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.vt));
                 return "ok";
             }
             catch(Exception ex)
@@ -203,35 +206,7 @@ namespace DXM.Web.Interface.Controllers
             
         }
 
-        [HttpGet]
-        public string emula(int valor)
-        {
-            //if (!Program.registrado) { return "falha"; }
-            string ret = "";
-            int[] reg = new int[1];
-            reg[0] = valor;
-            try
-            {
-                if (!Program.dxm.Connected)
-                {
-                    if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.oee.DXM_Endress, 502); }
-                    else { Program.dxm = new ModbusClient((Program.oee.DXM_Endress)); }
-                    Program.dxm.ConnectionTimeout = 3000;
-                    Program.dxm.Connect();
-                }
-                Program.dxm.WriteMultipleRegisters(88, reg);
-                Program.oee.emulador = valor;
-                Program.oee.flush();
-                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
-                ret = "ok";
-            }
-            catch (Exception ex)
-            {
-                ret = ex.Message;
-            }
-            Thread.Sleep(1000);           
-            return ret;
-        }
+       
         [HttpGet]
         public string setLinhas(int valor)
         {
@@ -243,19 +218,19 @@ namespace DXM.Web.Interface.Controllers
             {
                 if (!Program.dxm.Connected)
                 {
-                    if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.oee.DXM_Endress, 502); }
-                    else { Program.dxm = new ModbusClient((Program.oee.DXM_Endress)); }
+                    if (Program.vt.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
+                    else { Program.dxm = new ModbusClient((Program.vt.DXM_Endress)); }
                     Program.dxm.ConnectionTimeout = 3000;
                     Program.dxm.Connect();
                 }
-                Program.dxm.WriteMultipleRegisters(89, reg);
+                Program.dxm.WriteMultipleRegisters(849, reg);
                 Thread.Sleep(1000);                
-                Program.oee.alteraLinhas(valor);
+                Program.vt.alteraLinhas(valor);
                 Program.mapa.alteraQtdLinhas(valor);
-                Program.oee.flush();               
+                Program.vt.flush();               
                 Thread.Sleep(500);
-                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
-                Script script = new Script(Program.oee.Linhas, Program.oee.tickLog);
+                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.vt));
+                Script script = new Script(Program.vt.motores, Program.vt.tickLog);
                 script.salvaArquivo();
                 ret = "ok";
             }
@@ -274,7 +249,7 @@ namespace DXM.Web.Interface.Controllers
            
             try
             {
-                Script script = new Script(Program.oee.Linhas,Program.oee.tickLog);
+                Script script = new Script(Program.vt.motores,Program.vt.tickLog);
                 script.salvaArquivo();
                 ret = "ok";
             }
@@ -296,9 +271,9 @@ namespace DXM.Web.Interface.Controllers
             try
             {
                
-                Program.oee.tickLog = valor;               
-                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
-                Script script = new Script(Program.oee.Linhas, Program.oee.tickLog);
+                Program.vt.tickLog = valor;               
+                Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.vt));
+                Script script = new Script(Program.vt.motores, Program.vt.tickLog);
                 script.salvaArquivo();
                 ret = "ok";
             }
@@ -519,8 +494,8 @@ namespace DXM.Web.Interface.Controllers
                                 {
                                     tempStr = tempStr + temp[x];
                                 }
-                                Program.oee.flush();
-                                Program.banco.exec_log(tempStr, Program.oee.quantidade, tempStr2);
+                                Program.vt.flush();
+                                Program.banco.exec_log(tempStr, Program.vt.quantidade, tempStr2);
                                 dxm_api = new DXM_Procotolo(Program.dxm.IPAddress);
                                 dxm_api.deleteFile("Sbfile1.dat");
                                 Thread.Sleep(200);
@@ -581,8 +556,8 @@ namespace DXM.Web.Interface.Controllers
                             {
                                 tempStr = tempStr + temp[x];
                             }
-                            Program.oee.flush();
-                            Program.banco.exec_log(tempStr, Program.oee.quantidade, tempStr2);
+                            Program.vt.flush();
+                            Program.banco.exec_log(tempStr, Program.vt.quantidade, tempStr2);
                             dxm_api = new DXM_Procotolo(Program.dxm.IPAddress);
                             dxm_api.deleteFile("Sbfile1.dat");
                             Thread.Sleep(200);

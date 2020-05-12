@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using DXM.OEE;
+using DXM.VTX;
 
 namespace DXM.Protocolo
 {
@@ -12,28 +13,29 @@ namespace DXM.Protocolo
         public string nomeArquivo { get; set; }
         public string arquivo { get; set; }
         public List<string> buffer { get; set; }
-        public List<Linha> linhas { get; set; }
+       
+        public List<Motor> motores { get; set; }
         public int log { get; set; }
         public Script()
         {
             inicia();
         }
-        public Script(List<Linha> _linhas)
+        public Script(List<Motor> _motores)
         {
-            linhas = _linhas;
+            motores = _motores;
             inicia();
         }
 
-        public Script(List<Linha> _linhas, int _log)
+        public Script(List<Motor> _motores, int _log)
         {
-            linhas = _linhas;
+            motores = _motores;
             log = _log;
             inicia();
         }
         private void inicia()
         {
             pasta = string.Format("{0}wwwroot\\script\\", AppContext.BaseDirectory);
-            nomeArquivo = "OEE.sb";
+            nomeArquivo = "Vtx.sb";
             arquivo = pasta + nomeArquivo;
             buffer = new List<string>();
             carregaArquivo();
@@ -88,14 +90,14 @@ namespace DXM.Protocolo
         private List<string> subBufferIni()
         {
             List<string> ret = new List<string>();
-            ret.Add(string.Format("linhas={0}",linhas.Count));
+            ret.Add(string.Format("motores={0}",motores.Count));
             try
             {
-                for (int x = 0; x < linhas.Count; x++)
+                for (int x = 0; x < motores.Count; x++)
                 {
-                    ret.Add(string.Format("vel_esp[{0}]={1}",x,linhas[x].vel_esp));
-                    ret.Add(string.Format("forma[{0}]={1}",x,linhas[x].forma));
-                    ret.Add(string.Format("t_p_prog[{0}]={1}",x,linhas[x].t_p_prog));
+                    ret.Add(string.Format("A_V_rms_vel_x[{0}]={1}",x,motores[x].alert_v_Rms_Vel_X));
+                    ret.Add(string.Format("A_V_rms_vel_z[{0}]={1}", x,motores[x].alert_v_Rms_Vel_Z));
+                    ret.Add(string.Format("A_Temp[{0}]={1}",x,motores[x].alert_tempe));
                 }
                 ret.Add(string.Format("trig_log={0}", (int)log/60));
                 return ret;

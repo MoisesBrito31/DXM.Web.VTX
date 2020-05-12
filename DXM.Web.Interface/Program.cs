@@ -10,6 +10,7 @@ using Microsoft.Win32;
 using System;
 using DXM.Web.Interface.Models;
 using DXM.Protocolo;
+using DXM.VTX;
 using System.Collections.Generic;
 
 namespace DXM.Web.Interface
@@ -19,13 +20,15 @@ namespace DXM.Web.Interface
         public static string urlString = "http://*:5001;http://localhost:5001";
         public static string user = "indefinido";
         public static string regTipo = "Versão Básica";
-        public static string chave = "P3DI43NF4SV8D4FA";
+        public static string chave = "J3GS4SMC50BXTA41";
         public static string chaveVetor = "E94NFGU4N5M47NA3";
+        public static string pasta = "HKEY_CURRENT_USER\\DXM_vt";
         public static string sInf = crypt.Encriptar(Program.chave, Program.chaveVetor, "infinito");      
         public static string sdataAtual = crypt.Encriptar(Program.chave, Program.chaveVetor, "dataAtual");
         public static string sdataLim = crypt.Encriptar(Program.chave, Program.chaveVetor, "dataLimite");
         public static bool registrado = false;
-        public static OEE.OEE oee;
+        //public static OEE.OEE oee;
+        public static VTX.VTX vt;
         public static ModbusClient dxm;        
         public static Store.Store banco;
         public static bool dxmChange = false;
@@ -43,11 +46,11 @@ namespace DXM.Web.Interface
             //*
             banco = new Store.Store();            
             JavaScriptSerializer ser = new JavaScriptSerializer();
-            OEE.OEE foo = ser.Deserialize<OEE.OEE>(banco.Fabrica);
+            VTX.VTX foo = ser.Deserialize<VTX.VTX>(banco.Fabrica);
 
-            oee = new OEE.OEE(foo.quantidade,foo.Linhas,foo.DXM_Endress,foo.emulador,foo.tickLog);
-            if (oee.DXM_Tcp) { dxm = new ModbusClient(oee.DXM_Endress, 502); }
-            else { dxm = new ModbusClient(oee.DXM_Endress); }                  
+            vt = new VTX.VTX(foo.quantidade,foo.motores,foo.DXM_Endress,foo.tickLog);
+            if (vt.DXM_Tcp) { dxm = new ModbusClient(vt.DXM_Endress, 502); }
+            else { dxm = new ModbusClient(vt.DXM_Endress); }                  
 
             ThreadStart start = new ThreadStart(leituraDXM);
             Thread acao = new Thread(start);
@@ -62,7 +65,7 @@ namespace DXM.Web.Interface
 
             Thread.Sleep(1000);
             if (!registrado) { urlString = "http://localhost:5001"; }
-            mapa.alteraQtdLinhas(oee.Linhas.Count);
+            mapa.alteraQtdLinhas(vt.motores.Count);
 
             //*/
 
@@ -87,11 +90,11 @@ namespace DXM.Web.Interface
         public static void leituraDXM()
         {
 
-            int linhas = oee.quantidade;
+            int linhas = vt.quantidade;
             bool falha = false;            
             while (!falha)
             {
-                linhas = oee.quantidade;
+                linhas = vt.quantidade;
                 bool dxm_ok = false;
                 try
                 {
@@ -99,8 +102,8 @@ namespace DXM.Web.Interface
                         //oee.normaliza(); // revifica se a variavel quantidade e linhas tem o mesmo valor.
                         if (!dxm.Connected)
                         {
-                            if (oee.DXM_Tcp) { dxm = new ModbusClient(oee.DXM_Endress, 502); }
-                            else { dxm = new ModbusClient(oee.DXM_Endress); }
+                            if (vt.DXM_Tcp) { dxm = new ModbusClient(vt.DXM_Endress, 502); }
+                            else { dxm = new ModbusClient(vt.DXM_Endress); }
                             dxm.ConnectionTimeout = 3000;
                             dxm.Connect();
                         } 
@@ -132,30 +135,29 @@ namespace DXM.Web.Interface
                     {
                         if (!dxm.Connected)
                         {
-                            if (oee.DXM_Tcp) { dxm = new ModbusClient(oee.DXM_Endress, 502); }
-                            else { dxm = new ModbusClient(oee.DXM_Endress); }                            
+                            if (vt.DXM_Tcp) { dxm = new ModbusClient(vt.DXM_Endress, 502); }
+                            else { dxm = new ModbusClient(vt.DXM_Endress); }                            
                             dxm.ConnectionTimeout = 3000;
                             dxm.Connect();
                         }
-                        int linha = dxm.ReadHoldingRegisters(89, 1)[0];
-                        if (linha > 0) { oee.alteraLinhas(linha); }
-                        oee.emulador=dxm.ReadHoldingRegisters(88,1)[0];
-                        oee.Linhas[x].insert_dinamics(dxm.ReadHoldingRegisters(0 + x * 5, 5));
-                        oee.Linhas[x].insert_calculadas(dxm.ReadHoldingRegisters(100 + x * 13, 13));                       
+                        int linha = dxm.ReadHoldingRegisters(849, 1)[0];
+                        if (linha == 0) { linha = 1; }
+                        if (linha > 0) { vt.alteraLinhas(linha);}                       
+                        vt.motores[x].readAovivo(dxm.ReadHoldingRegisters(25 + x * 16, 16));
                         dxm_ok = true;
                     }
                     }
                 }
                 catch {
                   
-                    if (oee.DXM_Tcp) { dxm = new ModbusClient(oee.DXM_Endress, 502); }
-                    else { dxm = new ModbusClient(oee.DXM_Endress); }                    
+                    if (vt.DXM_Tcp) { dxm = new ModbusClient(vt.DXM_Endress, 502); }
+                    else { dxm = new ModbusClient(vt.DXM_Endress); }                    
                     Thread.Sleep(3000);
                     dxmINIcia = true;
                 }
                
-                if (dxm_ok) { oee.DXM_insertOnLine(); }
-                else { oee.DXM_insertFalha(); }
+                if (dxm_ok) { vt.DXM_insertOnLine(); }
+                else { vt.DXM_insertFalha(); }
                 Thread.Sleep(1000);
             }
 
@@ -166,12 +168,13 @@ namespace DXM.Web.Interface
             int contador = 0;
             while (true) {
                 long hora = DateTime.Now.ToFileTime();
-                int linhas = oee.quantidade;
-                int comparador = oee.tickLog + 60;
+                int linhas = vt.quantidade;
+                int comparador = vt.tickLog + 60;
                 contador++;
                 
                 if (contador > comparador && dxm.Connected)
                 {
+                    /* 
                     loging = true;
                     try
                     {
@@ -201,8 +204,8 @@ namespace DXM.Web.Interface
                                 {
                                     tempStr = tempStr + temp[x];
                                 }
-                                oee.flush();
-                                banco.exec_log(tempStr, oee.quantidade,tempStr2);
+                                vt.flush();
+                                banco.exec_log(tempStr, vt.quantidade,tempStr2);
                                 dxm_api = new DXM_Procotolo(Program.dxm.IPAddress);
                                 dxm_api.deleteFile("Sbfile1.dat");
                                 Thread.Sleep(200);
@@ -224,21 +227,21 @@ namespace DXM.Web.Interface
                         Console.WriteLine(ex);                       
                     }
                     
-                    /*                 
+                         */           
                     contador = 0;
                     for (int z = 0; z < linhas; z++)
                     {
                         try
                         {
-                            if (!oee.Linhas[z].Estado.Contains("DXM")) {
-                                oee.flush();
-                                //banco.exec_log(oee.Linhas[z]);
+                            if (!vt.motores[z].Estado.Contains("DXM")) {
+                                vt.flush();
+                                banco.exec_log(vt.motores[z]);
                             }
                         }
                         catch { }
                     }
-                    */
-                    banco.set_fabrica(JsonConvert.SerializeObject(oee));
+                    //*/
+                    banco.set_fabrica(JsonConvert.SerializeObject(vt));
                     contador = 0;
                 }
                 else { loging = false; }
@@ -251,17 +254,18 @@ namespace DXM.Web.Interface
         {
             try
             {
-                //verifica integrigade do reistro
+                //verifica integrigade do reistro               
+                
                 string atual = crypt.Encriptar(Program.chave, Program.chaveVetor, DateTime.Now.Date.ToShortDateString());
-                string dataIni = (string)Registry.GetValue("HKEY_CURRENT_USER\\DXM_Web", sdataAtual, "not exist.");
-                string datafim = (string)Registry.GetValue("HKEY_CURRENT_USER\\DXM_Web", sdataLim, "not exist.");
-                string indefinido = (string)Registry.GetValue("HKEY_CURRENT_USER\\DXM_Web", sInf, "not exist.");
+                string dataIni = (string)Registry.GetValue(pasta, sdataAtual, "not exist.");
+                string datafim = (string)Registry.GetValue(pasta, sdataLim, "not exist.");
+                string indefinido = (string)Registry.GetValue(pasta, sInf, "not exist.");
 
                 DateTime d_ini = Convert.ToDateTime(crypt.Decriptar(chave, chaveVetor, dataIni));
                 DateTime d_fim = Convert.ToDateTime(crypt.Decriptar(chave, chaveVetor, datafim));
                 bool inf = Convert.ToBoolean(crypt.Decriptar(chave, chaveVetor, indefinido));
 
-                user = (string)Registry.GetValue("HKEY_CURRENT_USER\\DXM_Web", "usuario", "indefinido");
+                user = (string)Registry.GetValue(pasta, "usuario", "indefinido");
 
                 if (inf)
                 {
@@ -272,24 +276,24 @@ namespace DXM.Web.Interface
                 {
                     registrado = false;
                     regTipo = "Versão Básica";
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sdataAtual,"falha");
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sdataLim, "falha");
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web",sInf, "falha");
+                    Registry.SetValue(pasta, sdataAtual,"falha");
+                    Registry.SetValue(pasta, sdataLim, "falha");
+                    Registry.SetValue(pasta, sInf, "falha");
                 }
                 else if (DateTime.Now.Date > d_fim.Date)
                 {
                     registrado = false;
                     regTipo = "Versão Básica";
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sdataAtual, "falha");
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sdataLim, "falha");
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sInf, "falha");
+                    Registry.SetValue(pasta, sdataAtual, "falha");
+                    Registry.SetValue(pasta, sdataLim, "falha");
+                    Registry.SetValue(pasta, sInf, "falha");
                 }
                 
                 else
                 {
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", sdataAtual, atual);
+                    Registry.SetValue(pasta, sdataAtual, atual);
                     registrado = true;
-                    regTipo = "vencimento " + d_fim.Date.ToShortDateString();
+                    regTipo = "Vencimento " + d_fim.Date.ToShortDateString();
                     
                 }
 

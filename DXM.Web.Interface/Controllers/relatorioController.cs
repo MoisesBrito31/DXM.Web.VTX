@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DXM.OEE;
+using DXM.VTX;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DXM.Web.Interface.Controllers
@@ -13,14 +14,14 @@ namespace DXM.Web.Interface.Controllers
         {
             if(!Program.registrado) { return RedirectToAction("index", "licenca"); }
             List<string> l = new List<string>();
-            for(int x = 0; x < Program.oee.Linhas.Count; x++)
+            for(int x = 0; x < Program.vt.motores.Count; x++)
             {
-                l.Add(Program.oee.Linhas[x].nome);
+                l.Add(Program.vt.motores[x].nome);
             }
             ViewBag.Linhas = l;
             return View();
         }
-
+        /*
         public string getDados(string _color, int linha, DateTime ini, DateTime fim, int index)
         {
             string ret = "falha";
@@ -28,7 +29,7 @@ namespace DXM.Web.Interface.Controllers
             string nome = "abc";
             string date = "";
 
-            Linha l = Program.oee.Linhas[linha];
+            Motor l = Program.vt.motores[linha];
             l.histFiltro = Program.banco.get_linha_hist(linha, ini, fim);
             l.historico = l.histFiltro;
             nome = l.nome;
@@ -106,5 +107,6 @@ namespace DXM.Web.Interface.Controllers
             ret = "{ " + ret + " }";
             return ret;
         }
+        */
     }
 }

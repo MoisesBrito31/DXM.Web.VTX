@@ -4,6 +4,7 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Text;
 using DXM.OEE;
+using DXM.VTX;
 
 namespace DXM.Protocolo
 {
@@ -126,6 +127,14 @@ namespace DXM.Protocolo
             for(int x = 0; x < oee.Linhas.Count; x++)
             {
                 linhas[x].nomeLinha = oee.Linhas[x].nome;
+            }
+            salvaArquivo(this);
+        }
+        public void alteraNomeMotores(VTX.VTX vt)
+        {
+            for (int x = 0; x < vt.motores.Count; x++)
+            {
+                linhas[x].nomeLinha = vt.motores[x].nome;
             }
             salvaArquivo(this);
         }

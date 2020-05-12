@@ -1,0 +1,100 @@
+﻿@model DXM.VTX.VTX;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    p {
+        max-width: 200px;
+    }
+</style>
+
+<div class="card-title mt-5 mb-5">
+    <div class="row">
+        <div class="col text-left">
+            <h2>Fábrica Visão Geral</h2>
+        </div>
+
+
+    </div>
+</div>
+
+
+
+<hr>
+<div class="container-fluid row m-auto">
+    @for (int x = 0; x < Model.motores.Count; x++)
+    {
+        <div class="col-auto">
+            <div id="b @x" class="bg-light text-center border rounded mb-5 p-2" style="min-width:250px; max-width:300px;" onclick="document.location.href='/vt/historico/@x'">
+                <h3 id="l @x">@Model.motores[x].nome</h3>
+                <img class="mb-2" id="@x image" src="/images/motorPreto.png" width="150" height="150" />
+                <h4><p id="p @x" class="p-2 rounded border border-dark text-center m-auto"> @Model.motores[x].Estado</p>    </h4>
+                <div class="form-inline p-2 m-auto">
+                    <label>Eixo X:</label>
+                    <input type="text" readonly="readonly" id="@x vx" class="form-control text-right ml-3" style="max-width:150px" value="@Model.motores[x].V_Rms_Vel_X mm/s" />
+                </div>
+                <div class="form-inline p-2 m-auto">
+                    <label>Eixo Z:</label>
+                    <input type="text" readonly="readonly" id="@x vz" class="form-control text-right ml-3" style="max-width:150px" value="@Model.motores[x].V_Rms_Vel_Z mm/s" />
+                </div>
+                <div class="form-inline p-2 m-auto">
+                    <label>Temp:    </label>
+                    <input type="text" readonly="readonly" id="@x temp" class="form-control text-right ml-3" style="max-width:150px" value="@Model.motores[x].Temperatura °C" />
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+
+</div>
+
+<script type="text/javascript">
+    setInterval(function () {
+        getmotores()
+    }, 1000)
+
+    function getmotores() {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+                data = JSON.parse(re);
+                if (data.dxm == "DXM OffLine") {
+                    document.location.href = "/vt/offline";
+                }
+                else {                    
+                    for (x = 0; x < data.motores.length; x++) {
+                         document.getElementById(`p ${x}`).innerHTML = data.motores[x].estado
+                        switch (data.motores[x].estado) {
+                            case "OK":
+                                document.getElementById(`${x} image`).src = "/images/motorOk.png"
+                                break;
+                             case "Falha":
+                                document.getElementById(`${x} image`).src = "/images/motorFalha.png"
+                                break;
+                            case "Alerta":
+                                document.getElementById(`${x} image`).src = "/images/motorAlerta.png"
+                                break;
+                             case "Aprendendo":
+                                document.getElementById(`${x} image`).src = "/images/motorLearn.png"
+                                break;
+                             case "OffLine":
+                                document.getElementById(`${x} image`).src = "/images/motorOffLine.png"
+                                break;
+                            
+                        }
+                        document.getElementById(`${x} vx`).value = data.motores[x].vx + " mm/s"
+                        document.getElementById(`${x} vz`).value = data.motores[x].vz + " mm/s"
+                        document.getElementById(`${x} temp`).value = data.motores[x].temp+" °C"
+                    }
+                }
+
+            }
+        }
+        xhp.open("Get", "/vt/getDados");
+        xhp.send();
+    }
+</script>

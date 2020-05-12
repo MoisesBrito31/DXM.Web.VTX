@@ -24,8 +24,9 @@ namespace DXM.Web.Interface.Controllers
         [HttpPost]
         public ActionResult registrar(string serial, string user)
         {
-            
+
             //DESCRIPT:
+            
             string valor = crypt.Decriptar(Program.chave, Program.chaveVetor, serial);
             bool falha = false;
             //verifica se é vitalicio:
@@ -37,10 +38,10 @@ namespace DXM.Web.Interface.Controllers
                 string sInfBool = crypt.Encriptar(Program.chave, Program.chaveVetor, "true");
                 string atual = crypt.Encriptar(Program.chave, Program.chaveVetor, DateTime.Now.Date.ToShortDateString());
                 string limite = crypt.Encriptar(Program.chave, Program.chaveVetor, d.ToShortDateString());
-                Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sdataAtual, atual);
-                Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sdataLim, limite);
-                Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sInf, sInfBool);
-                Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", "usuario", user);
+                Registry.SetValue(Program.pasta, Program.sdataAtual, atual);
+                Registry.SetValue(Program.pasta, Program.sdataLim, limite);
+                Registry.SetValue(Program.pasta, Program.sInf, sInfBool);
+                Registry.SetValue(Program.pasta, "usuario", user);
                 Program.registro();
                 return RedirectToAction("Index", "config");
             }
@@ -53,10 +54,10 @@ namespace DXM.Web.Interface.Controllers
                     string sInfBool = crypt.Encriptar(Program.chave, Program.chaveVetor, "false");
                     string atual = crypt.Encriptar(Program.chave, Program.chaveVetor, DateTime.Now.Date.ToShortDateString());
                     string limite = crypt.Encriptar(Program.chave, Program.chaveVetor, d.ToShortDateString());
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sdataAtual, atual);
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sdataLim, limite);
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", Program.sInf, sInfBool);
-                    Registry.SetValue("HKEY_CURRENT_USER\\DXM_Web", "usuario", user);
+                    Registry.SetValue(Program.pasta, Program.sdataAtual, atual);
+                    Registry.SetValue(Program.pasta, Program.sdataLim, limite);
+                    Registry.SetValue(Program.pasta, Program.sInf, sInfBool);
+                    Registry.SetValue(Program.pasta, "usuario", user);
                     Program.registro();
                     return RedirectToAction("Index", "config");
                 }

@@ -10,6 +10,7 @@
       "DXM.Protocolo/1.0.0": {
         "dependencies": {
           "DXM.OEE": "1.0.0",
+          "DXM.VTX": "1.0.0",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "6.0.0.0"
         },
@@ -26,6 +27,11 @@
       "DXM.OEE/1.0.0": {
         "runtime": {
           "DXM.OEE.dll": {}
+        }
+      },
+      "DXM.VTX/1.0.0": {
+        "runtime": {
+          "DXM.VTX.dll": {}
         }
       },
       "Newtonsoft.Json/6.0.0.0": {
@@ -59,6 +65,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "DXM.OEE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DXM.VTX/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

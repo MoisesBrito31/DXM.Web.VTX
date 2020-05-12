@@ -36,3 +36,8 @@ C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\bin\Debug\DXM.O
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.dll
 C:\Users\Moises Brito\Documents\GitHub\DXM.Web.Interface\DXM.OEE\obj\Debug\DXM.OEE.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.OEE\bin\Debug\DXM.OEE.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.OEE\bin\Debug\DXM.OEE.pdb
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.OEE\obj\Debug\DXM.OEE.csprojAssemblyReference.cache
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.OEE\obj\Debug\DXM.OEE.dll
+C:\Users\Moises Brito\Documents\GitHub\DXM.Web.VTX\DXM.OEE\obj\Debug\DXM.OEE.pdb

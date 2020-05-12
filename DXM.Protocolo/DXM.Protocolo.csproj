@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DXM.OEE\DXM.OEE.csproj" />
+    <ProjectReference Include="..\DXM.VTX\DXM.VTX.csproj" />
   </ItemGroup>
 
   <ItemGroup>

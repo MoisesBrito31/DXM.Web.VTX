@@ -9,9 +9,8 @@ vel_esp[2]=43
 forma[2]=0
 t_p_prog[2]=0
 trig_log=10
-
 'inicio
-'vers?o 2.0.0
+'vers?o 1.8.0
 'linha ? composta de 1-5, conjunto de linhas vai 1-80
 '89 - ativa emulador
 '90 - quantidades de linhas ativas 

@@ -1,4 +1,4 @@
-﻿@model DXM.OEE.OEE;
+﻿@model DXM.VTX.VTX;
 @{
     ViewData["Title"] = "Index";
     int log = Model.tickLog / 60;
@@ -53,7 +53,7 @@
     {
 
         <div class="mb-4  mt-4">
-            <label for="linhas">linhas:</label>
+            <label for="linhas">Motores:</label>
             <div class="form-inline">
                 <input type="number" class="mr-3 form-control" name="linhas" id="linhas" value="@Model.quantidade" />
                 <button id="splint2" class="btn btn-primary " onclick="linhaAltera()" type="button">Alterar</button>
@@ -69,64 +69,37 @@
         </div>
         <hr />
         int z = 0;
+        if(Model.DXM_Status!="DXM OffLine") { 
         for (int x = 0; x < Model.quantidade; x++)
         {
             z = x + 1;
             <div class="mb-4 mt-4 form-row">
                 <div class="col-auto mt-3">
                     <p>Nome linha @z : </p>
-                    <input type="text" id="l @x" name="l @x" value="@Model.Linhas[x].nome" class="mr-3 form-control" />
+                    <input type="text" id="l @x" name="l @x" value="@Model.motores[x].nome" class="mr-3 form-control" />
                 </div>
                 <div class="col-auto mt-3">
-                    <p>Parada Agendado:</p>
-                    <input id="@x agendado" class="form-control text-center mr-3" value="@string.Format("{0} : {1}",(int)Model.Linhas[x].t_p_prog/60,(int)Model.Linhas[x].t_p_prog%60)" onclick="t_p_progBtnF('@x agendado')" onkeyup="agendadoChange('@x agendado',@x)" />
+                    <p>Alerta de Temperatura:</p>
+                    <input />
                 </div>
                 <div class="col-auto mt-3">
-                    <p>Forma de Contagem:</p>
-                    @if (Model.Linhas[x].forma == 0)
-                    {
-                        <select class="form-control mr-3" id="@x forma">
-                            <option value="0" selected="selected">Contador de rejeitados</option>
-                            <option value="1">Contador de Aprovados</option>
-                        </select>
-                    }
-                    else
-                    {
-                        <select class="form-control mr-3" id="@x forma">
-                            <option value="0">Contador de rejeitados</option>
-                            <option value="1" selected="selected">Contador de Aprovados</option>
-                        </select>
-                    }
+                    <p>Alerta Vibração Eixo X:</p>
+                  <input />
 
                 </div>
                 <div class="col-auto mt-3">
-                    <p>Veloc. Esperada (p/m):</p>
-                    <input id="@x velo_esp" type="text" class="form-control text-center mr-3" value="@string.Format("{0}",Model.Linhas[x].vel_esp)" />
+                    <p>Alerta Vibração Eixo Z:</p>
+                    <input />
                 </div>
                 <div class="col-auto mt-3">
                     <p>ação:</p>
                     <button class="btn btn-primary" type="button" onclick="altnome(@x)">Salvar </button>
-                    <button class="btn btn-danger" type="button" onclick="zera(@x)">Zerar</button>
+                    <button class="btn btn-danger" type="button" onclick="zera(@x)">Aprender</button>
                 </div>
             </div>
             <hr />
         }
-
-        <div class="mb-4 mt-4">
-            <label class="mr-3">Emulador: </label>
-            @if (Model.emulador == 0)
-            {
-                <button class="btn btn-primary" onclick="emula(@Model.emulador)" type="button">
-                    <span id="emul" onclick="emula(@Model.emulador)">Iniciar emulador</span>
-                </button>
             }
-            else
-            {
-                <button class="btn btn-danger" onclick="emula(@Model.emulador)" type="button">
-                    <span id="emul" onclick="emula(@Model.emulador)">Parar emulador</span>
-                </button>
-            }
-        </div>
 
     }
 
@@ -139,13 +112,6 @@
 </script>
 
 
-@for (int y = 0; y < Model.quantidade; y++)
-{
-   
-    <script>
-        input_h_p_pro[@y] = @Model.Linhas[y].t_p_prog
-    </script>
-}
 
 <script>
    
@@ -196,19 +162,7 @@
         xhp.send();
     }
 
-    function zera(valor) {
-        var xhp = new XMLHttpRequest()
-
-        xhp.onreadystatechange = function () {
-            if (this.readyState === 4 && this.status === 200) {
-                var re = this.responseText
-                if (re == "ok") { toastr.success("contadores Zerados", "Sucesso") }
-                else { toastr.error("não foi possível zerar Contadores", "Falha") }
-            }
-        }
-        xhp.open("Get", `/Config/zerarLinha?id=${valor}`);
-        xhp.send();
-    }
+    
 
     function linhaAltera() {
         document.getElementById("splint2").innerHTML = "<span class=\"spinner-border spinner-border-sm mr-1\"></span>Alterando...";
@@ -239,30 +193,6 @@
         xhp.open("Get", "/Config/setTickLog?valor=" + valor);
         xhp.send();
     }
-
-    function emula(valor) {
-
-        if (valor == 0) {
-            valor = 1
-        }
-        else {
-            valor = 0
-        }
-
-        var xhp = new XMLHttpRequest()
-        xhp.onreadystatechange = function () {
-            if (this.readyState === 4 && this.status === 200) {
-                var re = this.responseText
-                setTimeout(document.location.reload(), 2000)
-
-
-            }
-        }
-        xhp.open("Get", "/Config/emula?valor=" + valor);
-        xhp.send();
-    }
-
-
 
     function agendadoChange(id, x) {
         var valor = document.getElementById(id).value
