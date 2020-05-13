@@ -2,6 +2,13 @@
 @{
     ViewData["Title"] = "Index";
     int log = Model.tickLog / 60;
+    System.Text.StringBuilder at = new System.Text.StringBuilder(Convert.ToString(Model.motores[0].alert_tempe));
+    at.Replace(',', '.');
+    System.Text.StringBuilder avx = new System.Text.StringBuilder(Convert.ToString(Model.motores[0].alert_v_Rms_Vel_X));
+    avx.Replace(',', '.');
+    System.Text.StringBuilder avz = new System.Text.StringBuilder(Convert.ToString(Model.motores[0].alert_v_Rms_Vel_Z));
+    avz.Replace(',', '.');
+   
 }
 
 <style>
@@ -69,37 +76,38 @@
         </div>
         <hr />
         int z = 0;
-        if(Model.DXM_Status!="DXM OffLine") { 
-        for (int x = 0; x < Model.quantidade; x++)
+        if (Model.DXM_Status != "DXM OffLine")
         {
-            z = x + 1;
-            <div class="mb-4 mt-4 form-row">
-                <div class="col-auto mt-3">
-                    <p>Nome linha @z : </p>
-                    <input type="text" id="l @x" name="l @x" value="@Model.motores[x].nome" class="mr-3 form-control" />
-                </div>
-                <div class="col-auto mt-3">
-                    <p>Alerta de Temperatura:</p>
-                    <input />
-                </div>
-                <div class="col-auto mt-3">
-                    <p>Alerta Vibração Eixo X:</p>
-                  <input />
+            for (int x = 0; x < Model.quantidade; x++)
+            {
+                z = x + 1;
+                <div class="mb-4 mt-4 form-row">
+                    <div class="col-auto mt-3">
+                        <p>Nome linha @z : </p>
+                        <input type="text" id="l @x" name="l @x" value="@Model.motores[x].nome" class="mr-3 form-control" />
+                    </div>
+                    <div class="col-auto mt-3">
+                        <p>Alerta de Temperatura:</p>
+                        <input  id="@x at" class="form-control" value="@at.ToString()" />
+                    </div>
+                    <div class="col-auto mt-3">
+                        <p>Alerta Vibração Eixo X:</p>
+                        <input  id="@x avx" class="form-control" value="@avx.ToString()" />
 
+                    </div>
+                    <div class="col-auto mt-3">
+                        <p>Alerta Vibração Eixo Z:</p>
+                        <input  id="@x avz" class="form-control" value="@avz.ToString()" />
+                    </div>
+                    <div class="col-auto mt-3">
+                        <p>ação:</p>
+                        <button class="btn btn-primary" type="button" onclick="altnome(@x)">Salvar </button>
+                        <button class="btn btn-danger" type="button" onclick="falhaReset()">Reset</button>
+                    </div>
                 </div>
-                <div class="col-auto mt-3">
-                    <p>Alerta Vibração Eixo Z:</p>
-                    <input />
-                </div>
-                <div class="col-auto mt-3">
-                    <p>ação:</p>
-                    <button class="btn btn-primary" type="button" onclick="altnome(@x)">Salvar </button>
-                    <button class="btn btn-danger" type="button" onclick="zera(@x)">Aprender</button>
-                </div>
-            </div>
-            <hr />
-        }
+                <hr />
             }
+        }
 
     }
 
@@ -107,14 +115,10 @@
 
 
 
-<script>
-    var input_h_p_pro = []
-</script>
-
 
 
 <script>
-   
+
     var editT_p_prog = false
 
 
@@ -122,14 +126,15 @@
     function altnome(valor) {
 
         var nome = document.getElementById(`l ${valor}`).value;
-        var form = document.getElementById(`${valor} forma`).value;
-        var vel = document.getElementById(`${valor} velo_esp`).value;
+        var a_t = document.getElementById(`${valor} at`).value;
+        var a_vx = document.getElementById(`${valor} avx`).value;
+        var a_vz = document.getElementById(`${valor} avz`).value;
         var xhp = new XMLHttpRequest()
 
         xhp.onreadystatechange = function () {
             if (this.readyState === 4 && this.status === 200) {
                 var re = this.responseText
-                if (re == "ok") {                    
+                if (re == "ok") {
                     toastr.success("dados armazenados", "Sucesso")
                 }
                 else {
@@ -137,7 +142,7 @@
                 }
             }
         }
-        xhp.open("Get", `/Config/setLinhaNome?id=${valor}&valor=${nome}&t_p_p=${input_h_p_pro[valor]}&forma=${form}&vel_esp=${vel}`);
+        xhp.open("Get", `/Config/setLinhaNome?id=${valor}&valor=${nome}&t=${a_t}&vx=${a_vx}&vz=${a_vz}`);
         xhp.send();
     }
 
@@ -162,7 +167,7 @@
         xhp.send();
     }
 
-    
+
 
     function linhaAltera() {
         document.getElementById("splint2").innerHTML = "<span class=\"spinner-border spinner-border-sm mr-1\"></span>Alterando...";
@@ -240,6 +245,23 @@
     function t_p_progBtnF(id) {
         editT_p_prog = true;
         document.getElementById(id).value = ""
+    }
+    function falhaReset()
+    {
+        var xhp = new XMLHttpRequest()
+        xhp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var re = this.responseText
+                if (re == "ok") {
+                    toastr.success("Ação Executada", "Sucesso")
+                }
+                else {
+                    toastr.error(re, "erro")
+                }
+            }
+        }
+        xhp.open("Get", `/Config/resetMotor`)
+        xhp.send();
     }
 
 </script>

@@ -1,0 +1,5 @@
+motores=1
+A_V_rms_vel_x[0]=5
+A_V_rms_vel_z[0]=5
+A_Temp[0]=30
+trig_log=10

@@ -43,7 +43,7 @@ namespace DXM.Web.Interface
 
             mapa = new Mapa("base", "base.mapa");
 
-            //*
+            /*
             banco = new Store.Store();            
             JavaScriptSerializer ser = new JavaScriptSerializer();
             VTX.VTX foo = ser.Deserialize<VTX.VTX>(banco.Fabrica);
@@ -67,13 +67,13 @@ namespace DXM.Web.Interface
             if (!registrado) { urlString = "http://localhost:5001"; }
             mapa.alteraQtdLinhas(vt.motores.Count);
 
-            //*/
+            */
 
             var pathToExec = Process.GetCurrentProcess().MainModule.FileName;
             _pathContentRoot = Path.GetDirectoryName(pathToExec);
 
-            //CreateWebHostBuilder(args).Build().RunAsCustomService();
-            CreateWebHostBuilder(args).Build().Run();
+            CreateWebHostBuilder(args).Build().RunAsCustomService();
+            //CreateWebHostBuilder(args).Build().Run();
 
 
         }
@@ -81,7 +81,7 @@ namespace DXM.Web.Interface
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
             .UseUrls(urlString)
-            //.UseContentRoot(_pathContentRoot)
+            .UseContentRoot(_pathContentRoot)
             .UseSockets()            
                 .UseStartup<Startup>();       
            
@@ -174,7 +174,7 @@ namespace DXM.Web.Interface
                 
                 if (contador > comparador && dxm.Connected)
                 {
-                    /* 
+                    ///* 
                     loging = true;
                     try
                     {
@@ -227,7 +227,7 @@ namespace DXM.Web.Interface
                         Console.WriteLine(ex);                       
                     }
                     
-                         */           
+                    /*        
                     contador = 0;
                     for (int z = 0; z < linhas; z++)
                     {
@@ -240,7 +240,7 @@ namespace DXM.Web.Interface
                         }
                         catch { }
                     }
-                    //*/
+                    */
                     banco.set_fabrica(JsonConvert.SerializeObject(vt));
                     contador = 0;
                 }

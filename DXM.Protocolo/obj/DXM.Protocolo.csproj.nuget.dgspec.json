@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {}
+    "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
+    "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj",
+        "projectUniqueName": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj",
         "projectName": "DXM.OEE",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
+        "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {
+    "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj",
+        "projectUniqueName": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj",
         "projectName": "DXM.Protocolo",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\obj\\",
+        "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\DXM.Protocolo.csproj",
+        "packagesPath": "C:\\Users\\Moises Brito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.Protocolo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moises Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +38,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
+              "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj": {
+                "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.OEE\\DXM.OEE.csproj"
               },
-              "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj"
+              "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
+                "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj"
               }
             }
           }
@@ -77,17 +77,17 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
+    "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj",
+        "projectUniqueName": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj",
         "projectName": "DXM.VTX",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\obj\\",
+        "projectPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\DXM.VTX.csproj",
+        "packagesPath": "C:\\Users\\Moises Brito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moises Brito\\Documents\\GitHub\\DXM.Web.VTX\\DXM.VTX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moises Brito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

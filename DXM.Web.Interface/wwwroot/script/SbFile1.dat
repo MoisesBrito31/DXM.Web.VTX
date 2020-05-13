@@ -1,2 +1,2 @@
-{"id":0,"time":"2020-04-01T09:17:52-03:00","V_Rms_Vel_X":0,"V_Rms_Vel_Z":0,"temperatura":0,"alert_tempe":500,"alert_v_Rms_Vel_X":10000,"alert_v_Rms_Vel_Z":10000,"Estado":1}
-{"id":0,"time":"2020-04-01T09:17:52-03:00","V_Rms_Vel_X":0,"V_Rms_Vel_Z":0,"temperatura":0,"alert_tempe":10000,"alert_v_Rms_Vel_X":10000,"alert_v_Rms_Vel_Z":500,"Estado":1}
+{"id":0,"time":"2020-04-01T09:17:52-03:00","V_Rms_Vel_X":6.532000,"V_Rms_Vel_Z":4.123000,"temperatura":23.850000,"alert_tempe":25,"alert_v_Rms_Vel_X":10,"alert_v_Rms_Vel_Z":10,"Estado":"Falha"}
+{"id":0,"time":"2020-04-01T09:17:52-03:00","V_Rms_Vel_X":6.532000,"V_Rms_Vel_Z":4.123000,"temperatura":23.850000,"alert_tempe":25,"alert_v_Rms_Vel_X":10,"alert_v_Rms_Vel_Z":10,"Estado":"Falha"}

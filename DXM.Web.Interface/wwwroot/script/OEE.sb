@@ -13,17 +13,18 @@ trig_log=1
 
 
 WrErr = SETREG(850, motores, 199, 4)
-WrErr = SETREG(31, a_vx, 199, 4)
-WrErr = SETREG(32, a_vz, 199, 4)
-WrErr = SETREG(33, a_t, 199, 4)
+WrErr = SETREG(32, a_vx, 199, 4)
+WrErr = SETREG(33, a_vz, 199, 4)
+WrErr = SETREG(31, a_t, 199, 4)
 
 v_x=0
-cont_a_vx=0
+a_vx_Cont=0
 v_z=0
 cont_a_vz=0
 temperatura=0
 cont_a_temp=0
 
+estado_nome = ""
 estado=0
 comando=0
 
@@ -43,9 +44,9 @@ temp_cont_out=0
 timer_log=0
 
 
-FUNCTION loging
+FUNCTION loging	
 	for x=0 to motores-1
-		outRet = FILEOUT(10,0,0,"{\"id\":" & x & ",\"time\":\"2020-04-01T09:17:52-03:00\"" & ",\"V_Rms_Vel_X\":" & v_x & ",\"V_Rms_Vel_Z\":" & v_z & ",\"temperatura\":" & temperatura & ",\"alert_tempe\":" & a_t[0] & ",\"alert_v_Rms_Vel_X\":" & a_vx[0] & ",\"alert_v_Rms_Vel_Z\":" & a_vz[0] & ",\"Estado\":" & estado & "}"&"\r\n"	
+		outRet = FILEOUT(10,0,0,"{\"id\":" & x & ",\"time\":\"2020-04-01T09:17:52-03:00\"" & ",\"V_Rms_Vel_X\":" & v_x/1000 & ",\"V_Rms_Vel_Z\":" & v_z/1000 & ",\"temperatura\":" & temperatura/20 & ",\"alert_tempe\":" & a_t[0]/20 & ",\"alert_v_Rms_Vel_X\":" & a_vx[0]/1000 & ",\"alert_v_Rms_Vel_Z\":" & a_vz[0]/1000 & ",\"Estado\":\"" & estado_nome & "\"}"&"\r\n"	
 	next x
 		timer_log=1
 END FUNCTION
@@ -54,9 +55,9 @@ FUNCTION inPuts
 	motores=GETREG(850,199,4)	
 	FOR x = 0 to motores-1
 		v_x=GETREG(25+(16*x)+1,199,4)
-		v_z=GETREG(25+(16*x)+2,199,4)
-		temperatura=(25+(16*x)+5,199,4)
-		comando =(25+(16*x)+9,199,4)
+		v_z=GETREG(25+(16*x)+3,199,4)
+		temperatura=GETREG(25+(16*x)+5,199,4)
+		comando =GETREG(25+(16*x)+10,199,4)
 		a_vx[x] = GETREG(25+(16*x)+7,199,4)
 		a_vz[x] = GETREG(25+(16*x)+8,199,4)
 		a_t[x] = GETREG(25+(16*x)+6,199,4)	
@@ -67,7 +68,7 @@ FUNCTION outPuts
 	WrErr = SETREG(500, timer_log, 199, 4)
 	WrErr = SETREG(850, motores, 199, 4)	
 	FOR x=0 to motores-1
-		WrErr = SETREG(25+(16*x)+9, estado, 199, 4)		
+		WrErr = SETREG(25+(16*x)+9, estado, 199, 4)	
 	NEXT x	
 END FUNCTION
 
@@ -95,22 +96,32 @@ END FUNCTION
 
 
 FUNCTION vt
-	if v_x > a_vx[0] and estado<>2 THEN
-		cont_a_vx=cont_a_vx+1
-		if cont_a_vx > 5 Then
+	IF comando = 1 THEN
+		estado=1
+		estado_nome = "OK"		
+		WrErr = SETREG(35, 0, 199, 4)				
+	end IF	
+	
+	IF estado<>2 THEN
+		if v_x > a_vx[0] or v_z > a_vz[0] or temperatura > a_t[0]  THEN
+			a_vx_Cont=a_vx_Cont+1
+		else			
+			a_vx_Cont=0	
+		END IF	
+		
+		IF a_vx_Cont>2 THEN
 			estado = 3
+			estado_nome = "alerta"			
+		ELSE
+			estado_nome = "OK"
+			estado = 1
 		END IF
-		if cont_a_vx > 10 Then
+		
+		IF a_vx_Cont>10 THEN
 			estado = 2
-			cont_a_vx=0
+			estado_nome = "Falha"			
 		END IF
-	else		
-		cont_a_vx=0
-		estado = 1		
-	END IF	
-	if comando==1 then
-		estado = 1
-	end if
+	ENDIF
 END FUNCTION
 
 

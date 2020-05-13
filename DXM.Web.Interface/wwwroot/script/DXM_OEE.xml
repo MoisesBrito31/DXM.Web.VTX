@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <configuration>
   <file_info>
-    <info filename="DXM_OEE.xml" guid="042f789f-5727-47af-b55a-175fa899f92c" software="DXMConfigurationSoftware v4" timestamp="12/05/2020 14:18:39" version="4.2.5.0" os="Win32NT" osversion="Microsoft Windows NT 6.1.7601 Service Pack 1" device="DXM100" solution="None" />
+    <info filename="DXM_OEE.xml" guid="621c85af-eb57-4498-9797-7af921b987ba" software="DXMConfigurationSoftware v4" timestamp="13/05/2020 00:24:06" version="4.8.4.0" os="Win32NT" osversion="Microsoft Windows NT 6.2.9200.0" device="DXM100" solution="None" />
   </file_info>
-  <local_regs />
+  <local_regs>
+    <reg num="26" name="vx" />
+    <reg num="28" name="vz" />
+    <reg num="30" name="temp" />
+  </local_regs>
   <cascade />
   <constant />
   <calculate />
   <thresholds />
   <trend />
-  <rtu_read />
+  <rtu_read>
+    <rule count="1" mask="0" name="vx" offset="0" poll="1" remfmt="int" remreg="22" remtype="hold_reg" scale="0" swapped="0" unit="1" localreg="26" maxfail="0" default="0" />
+    <rule count="1" mask="0" name="vz" offset="0" poll="1" remfmt="int" remreg="18" remtype="hold_reg" scale="0" swapped="0" unit="1" localreg="28" maxfail="0" default="0" />
+    <rule count="1" mask="0" name="t" offset="0" poll="1" remfmt="int" remreg="20" remtype="hold_reg" scale="0" swapped="0" unit="1" localreg="30" maxfail="0" default="0" />
+  </rtu_read>
   <rtu_write />
   <sched_holidays />
   <sched_commands />
@@ -152,7 +160,15 @@
   </sms>
   <server_params>
     <server apn="IP" apnpass="" cellenab="8" cellfw="0.0.0.0" cellfwmask="255.255.255.0" defaddr="0.0.0.0" defgtwy="0.0.0.0" defmask="255.255.255.0" dhcp="1" sms="0" />
+    <cell_info cell_modelname="SXI-CATM1VZW-001" />
     <maint csqbak="0" cexch="0" csqret="5" csrvwd="0" linkdel="60000" linkret="2" csflags="0" csrvre="0" ckeep="0" linkmax="120000" />
+    <eth flags="0" />
+    <apn idx="1" type="IPV4V6" name="" />
+    <apn idx="2" type="IPV4V6" name="vzwadmin" />
+    <apn idx="3" type="IPV4V6" name="vzwinternet" />
+    <apn idx="4" type="IPV4V6" name="vzwapp" />
+    <apn idx="5" type="IPV4V6" name="vzw800" />
+    <apn idx="6" type="IPV4V6" name="vzwclass6" />
   </server_params>
   <http_push>
     <dns address="0.0.0.0" />
@@ -160,4 +176,7 @@
     <push enabled="1" flags="4096" id="00000000-0000-0000-0000-000000000000" interval="00:00:00" port="80" debug="0" vendor="0" host="push.bannercds.com" page="/push.aspx" />
   </http_push>
   <fwall />
+  <profinet>
+    <io en="0" flags="0" />
+  </profinet>
 </configuration>

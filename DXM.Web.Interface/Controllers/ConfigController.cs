@@ -46,36 +46,36 @@ namespace DXM.Web.Interface.Controllers
             return View(Program.mapa.turnos);
         }
 
-        /*
-        public string setLinhaNome(int id, string valor, int t_p_p, string forma, int vel_esp)
+        
+        public string setLinhaNome(int id, string valor, float t, float vx, float vz)
         {
             //if (!Program.registrado) { r/eturn "falha"; }
             int[] reg = new int[1];
             int[] reg2 = new int[1];
             int[] reg3 = new int[1];
-            reg[0] = t_p_p;
-            reg2[0] = Convert.ToInt32(forma);
-            reg3[0] = vel_esp;
+            reg[0] = Convert.ToInt32(t*20);
+            reg2[0] = Convert.ToInt32(vx *1000);
+            reg3[0] = Convert.ToInt32(vz *1000);
             try {
 
                 if (!Program.dxm.Connected)
                 {
-                    if (Program.oee.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
+                    if (Program.vt.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
                     else { Program.dxm = new ModbusClient((Program.vt.DXM_Endress)); }
                     Program.dxm.ConnectionTimeout = 3000;
                     Program.dxm.Connect();
                 }
             Program.vt.motores[id].nome = valor;
             Program.mapa.alteraNomeMotores(Program.vt);
-            Program.dxm.WriteMultipleRegisters(110 + (id * 13), reg);
-            Program.dxm.WriteMultipleRegisters(109 + (id * 13), reg2);
-            Program.dxm.WriteMultipleRegisters(107 + (id * 13), reg3);
-            Program.oee.Linhas[id].t_p_prog = reg[0];
-            Program.oee.Linhas[id].forma = reg2[0];
-            Program.oee.Linhas[id].vel_esp = reg3[0];
-            Program.oee.flush();
-            Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.oee));
-            Script script = new Script(Program.oee.Linhas, Program.oee.tickLog);
+            Program.dxm.WriteMultipleRegisters(30 + (id * 16), reg);
+            Program.dxm.WriteMultipleRegisters(31 + (id * 16), reg2);
+            Program.dxm.WriteMultipleRegisters(32 + (id * 16), reg3);
+            Program.vt.motores[id].alert_tempe = reg[0];
+            Program.vt.motores[id].alert_v_Rms_Vel_X = reg2[0];
+            Program.vt.motores[id].alert_v_Rms_Vel_Z = reg3[0];
+            Program.vt.flush();
+            Program.banco.set_fabrica(JsonConvert.SerializeObject(Program.vt));
+            Script script = new Script(Program.vt.motores, Program.vt.tickLog);
             script.salvaArquivo();
             return "ok";
             }
@@ -84,7 +84,35 @@ namespace DXM.Web.Interface.Controllers
                 return ex.Message;
             }
         }
-        */
+
+        public string resetMotor()
+        {
+            //if (!Program.registrado) { r/eturn "falha"; }
+            int[] reg = new int[1];
+           
+            reg[0] = 1;
+            
+            try
+            {
+
+                if (!Program.dxm.Connected)
+                {
+                    if (Program.vt.DXM_Tcp) { Program.dxm = new ModbusClient(Program.vt.DXM_Endress, 502); }
+                    else { Program.dxm = new ModbusClient((Program.vt.DXM_Endress)); }
+                    Program.dxm.ConnectionTimeout = 3000;
+                    Program.dxm.Connect();
+                }
+               
+                Program.dxm.WriteMultipleRegisters(34, reg);
+                
+                return "ok";
+            }
+            catch 
+            {
+                return "falha";
+            }
+        }
+
 
         public string setTurno(int id, string nome, string hora)
         {

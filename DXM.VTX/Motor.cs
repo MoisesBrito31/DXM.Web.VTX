@@ -46,14 +46,14 @@ namespace DXM.VTX
 
         public void readAovivo(int[] values)
         {
-            V_Rms_Vel_X = values[0];
+            V_Rms_Vel_X =  (float)values[0]/1000;
             V_Pico_Vel_X = values[1];
-            V_Rms_Vel_Z = values[2];
+            V_Rms_Vel_Z = (float)values[2]/1000;
             V_Pico_Vel_Z = values[3];
-            Temperatura = values[4];
-            alert_tempe = values[5];
-            alert_v_Rms_Vel_X = values[6];
-            alert_v_Rms_Vel_Z = values[7];
+            Temperatura = (float)values[4]/20;
+            alert_tempe = (float)values[5]/20;
+            alert_v_Rms_Vel_X = (float)values[6]/1000;
+            alert_v_Rms_Vel_Z = (float)values[7]/1000;
             switch (values[8])
             {
                 case 0:
@@ -121,13 +121,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < historico.Count; x++)
                 {
+                    string temp = Convert.ToString(historico[x].V_Rms_Vel_X);
+                    temp.Replace(",", ".");
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", historico[x].V_Rms_Vel_X);
+                        ret = ret + string.Format("{0}", temp);
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", historico[x].V_Rms_Vel_X);
+                        ret = ret + string.Format("{0},", temp);
                     }
                 }
             }
@@ -135,13 +137,16 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(Convert.ToString(histFiltro[x].V_Rms_Vel_X));
+                    temp.Replace(',', '.');
+                   
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].V_Rms_Vel_X);
+                        ret = ret + string.Format("{0}", temp.ToString());
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].V_Rms_Vel_X);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }
@@ -169,13 +174,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(histFiltro[x].alert_v_Rms_Vel_X.ToString());
+                    temp.Replace(',', '.');
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].alert_v_Rms_Vel_X);
+                        ret = ret + string.Format("{0}",temp.ToString() );
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].alert_v_Rms_Vel_X);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }
@@ -203,13 +210,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(histFiltro[x].V_Rms_Vel_Z.ToString());
+                    temp.Replace(',', '.');
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].V_Rms_Vel_Z);
+                        ret = ret + string.Format("{0}", temp.ToString());
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].V_Rms_Vel_Z);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }
@@ -237,13 +246,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(histFiltro[x].alert_v_Rms_Vel_Z.ToString());
+                    temp.Replace(',', '.');
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].alert_v_Rms_Vel_Z);
+                        ret = ret + string.Format("{0}", temp.ToString());
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].alert_v_Rms_Vel_Z);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }
@@ -271,13 +282,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(histFiltro[x].temperatura.ToString());
+                    temp.Replace(',', '.');
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].temperatura);
+                        ret = ret + string.Format("{0}", temp.ToString());
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].temperatura);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }
@@ -305,13 +318,15 @@ namespace DXM.VTX
             {
                 for (int x = 0; x < histFiltro.Count; x++)
                 {
+                    StringBuilder temp = new StringBuilder(histFiltro[x].alert_tempe.ToString());
+                    temp.Replace(',', '.');
                     if (x == historico.Count - 1)
                     {
-                        ret = ret + string.Format("{0}", histFiltro[x].alert_tempe);
+                        ret = ret + string.Format("{0}", temp.ToString());
                     }
                     else
                     {
-                        ret = ret + string.Format("{0},", histFiltro[x].alert_tempe);
+                        ret = ret + string.Format("{0},", temp.ToString());
                     }
                 }
             }

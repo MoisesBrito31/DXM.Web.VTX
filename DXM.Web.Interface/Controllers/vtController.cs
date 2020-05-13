@@ -93,7 +93,7 @@ namespace DXM.Web.Interface.Controllers
             for(int x = 0; x < Program.vt.motores.Count; x++)
             {
                 ret += "{";
-                ret = string.Format("{0}\"id\":{1},\"nome\":\"{2}\",\"vx\":{3},\"vz\":{4},\"temp\":{5},\"estado\":\"{6}\"",ret, Program.vt.motores[x].id, Program.vt.motores[x].nome, 
+                ret = string.Format("{0}\"id\":{1},\"nome\":\"{2}\",\"vx\":\"{3}\",\"vz\":\"{4}\",\"temp\":\"{5}\",\"estado\":\"{6}\"", ret, Program.vt.motores[x].id, Program.vt.motores[x].nome, 
                     Program.vt.motores[x].V_Rms_Vel_X, Program.vt.motores[x].V_Rms_Vel_Z, Program.vt.motores[x].Temperatura,
                     Program.vt.motores[x].Estado);
                 ret += "},";
